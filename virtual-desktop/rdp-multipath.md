@@ -48,7 +48,7 @@ There are two ways to verify that RDP Multipath is being used for a connection:
 
    If you find some connections aren't using RDP Multipath, check that a firewall or other network restrictions doesn't block RDP Shortpath connections. A connection using STUN or TURN protocols is required.
 
-## Opt-out of the RDP Multipath preview
+## Opt-out of the RDP Multipath
 
 If you prefer to disable the RDP Multipath feature until it is fully rolled out, you can opt out at the session host level using the following registry key.
 
