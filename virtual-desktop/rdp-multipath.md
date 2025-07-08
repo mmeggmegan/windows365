@@ -48,14 +48,25 @@ There are two ways to verify that RDP Multipath is being used for a connection:
 
    If you find some connections aren't using RDP Multipath, check that a firewall or other network restrictions doesn't block RDP Shortpath connections. A connection using STUN or TURN protocols is required.
 
-## Opt-out of the RDP Multipath
+## Opt-in or Opt-out of the RDP Multipath
 
-If you prefer to disable the RDP Multipath feature until it is fully rolled out, you can opt out at the session host level using the following registry key.
+RDP Multipath is being rolled out in phases. If you’d like to manually control the feature availability on your session hosts, you can use the following registry key to either opt in or opt out.
 
+### Opt In to RDP Multipath
+To enable RDP Multipath ahead of the full rollout, set the following registry key value to 100:
+
+```
+reg add "HKLM\SYSTEM\CurrentControlSet\Control\Terminal Server\RdpCloudStackSettings" /v SmilesV3ActivationThreshold /t REG_DWORD /d 100 /f
+```
+
+### Opt Out of RDP Multipath
+If you prefer to disable RDP Multipath until the rollout is complete, set the registry key value to 0:
 
 ```
 reg add "HKLM\SYSTEM\CurrentControlSet\Control\Terminal Server\RdpCloudStackSettings" /v SmilesV3ActivationThreshold /t REG_DWORD /d 0 /f
 ```
+> [!NOTE]
+> After updating the registry key, users must disconnect and reconnect to the session host for the change to take effect.
 
 ## Related content
 To learn more about RDP Shortpath, see [RDP Shortpath for Azure Virtual Desktop](rdp-shortpath.md).
