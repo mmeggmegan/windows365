@@ -6,10 +6,10 @@
 title: Use RDP Multipath with Windows 365
 description: Learn how to use RDP Multipath Windows 365 Cloud PCs.
 author:      ridalwan # GitHub alias
-ms.author:   rinku.dalwani # Microsoft alias
-ms.service:  Windows365
+ms.author:   ridalwan # Microsoft alias
+ms.service:  windows-365
 # ms.prod:   # To use ms.prod, uncomment it and delete ms.service
-ms.topic:    How-to
+ms.topic:    how-to
 ms.date:     07/10/2025
 ---
 
@@ -83,5 +83,5 @@ reg add "HKLM\SYSTEM\CurrentControlSet\Control\Terminal Server\RdpCloudStackSett
 > [!NOTE]
 > After updating the registry key, users must disconnect and reconnect to the session host for their Windows 365 Cloud PC for the change to take effec.
 
-### 
+
 
