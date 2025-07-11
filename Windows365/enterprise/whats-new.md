@@ -2107,13 +2107,6 @@ The resize action now supports Cloud PCs that are Azure Active Directory joined.
 For newly provisioned and reprovisioned Cloud PCs, you can now set the Outlook mail sync setting to 6 or 12 months.
 
 <!-- vvvvvvvvvvvvvvvvvvvvvv -->
-### Device management
-
-#### Windows 11 optimized image now available for Windows 365 Cloud PCs<!--39890525 -->
-
-You can now choose the **Windows 11 Enterprise + OS Optimizations** image when creating a new provisioning policy. This feature is rolling out to all customers over the next few weeks.
-
-<!-- vvvvvvvvvvvvvvvvvvvvvv -->
 ### Device provisioning
 
 #### Provision Cloud PCs with Secure Boot<!--38012584-->
