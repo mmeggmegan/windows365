@@ -3,8 +3,8 @@
 # For more information, see https://learn.microsoft.com/en-us/help/platform/learn-editor-add-metadata
 # For valid values of ms.service, ms.prod, and ms.topic, see https://learn.microsoft.com/en-us/help/platform/metadata-taxonomies
 
-title:       # Add a title for the browser tab
-description: # Add a meaningful description for search results
+title:       # Use RDP Multipath with Windows 365
+description: # Learn how to use RDP Multipath Windows 365 Cloud PCs.
 author:      ridalwan # GitHub alias
 ms.author:   rinku.dalwani # Microsoft alias
 ms.service:  # Add the ms.service or ms.prod value
