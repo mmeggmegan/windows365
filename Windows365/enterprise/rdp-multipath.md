@@ -43,9 +43,9 @@ RDP Multipath uses multiple network paths, discovered with Interactive Connectiv
 > This version of Multipath does not support users who connect exclusively through WebSocket (TCP-based).
 
   
-Here is an example of a setup that might use UDP via STUN as the main path, with two backup UDP connections through a TURN server..  
+Here is an example of a setup that might use UDP via STUN as the main path, with two backup UDP connections through a TURN server.
 
-![Multipath diagram](media/rdp-multipath/multipath-diagram.png)
+![Multipath diagram](./media/rdp-multipath/multipath-diagram.png)
 
 ### Requirements
 
@@ -57,7 +57,7 @@ Here is an example of a setup that might use UDP via STUN as the main path, with
 
 Users can check the connection status of a remote session from the connection bar, which shows RDP Multipath is enabled, as shown in the following example screenshot:
 
-![A screenshot of connection information showing that RDP Multipath is enabled.](https://review.learn.microsoft.com/en-us/azure/virtual-desktop/media/rdp-multipath/rdp-multipath-connection-bar.png)
+![A screenshot of connection information showing that RDP Multipath is enabled.](./media/rdp-multipath/multipath-connection-bar.png)
 
 ### Manage RDP Multipath Availability
 
