@@ -28,7 +28,7 @@ RDP Multipath extends RDP Shortpath and uses Interactive Connectivity Establishm
 
 - __Seamless integration__: No configuration changes are needed beyond ensuring your environment supports [RDP Shortpath](/windows-365/enterprise/rdp-shortpath-public-networks).
 
-- __Intelligent path management__: ICE discovers and evaluates multiple RDP Shortpath routes using User Datagram Protocol (UDP) over STUN (Simple Traversal Underneath NAT) and TURN (Traversal Using Relays around NAT) protocols.
+- __Intelligent path management__: ICE discovers and evaluates multiple Remote Desktop Protocol (RDP) Shortpath routes using User Datagram Protocol (UDP) over STUN (Simple Traversal Underneath NAT) and TURN (Traversal Using Relays around NAT) protocols.
 
 - __Enhanced reliability__: Backup paths remain on standby. If the active path becomes unstable or fails, RDP Multipath automatically switches to the next best path, reducing session drops and interruptions.
 
@@ -37,7 +37,7 @@ RDP Multipath extends RDP Shortpath and uses Interactive Connectivity Establishm
 
 ### How does this work?
 
-RDP Multipath uses multiple network paths, discovered with Interactive Connectivity Establishment (ICE), to improve connection reliability. These paths can include combinations like UDP over STUN or UDP over Relay. If the main connection fails, the system automatically switches to a backup path. If all paths are lost—such as during a network outage—the system will try to reconnect once the network is available again. 
+RDP Multipath uses multiple network paths, discovered with Interactive Connectivity Establishment (ICE), to improve connection reliability. These paths can include combinations like UDP over STUN or UDP over Relay. If the main connection fails, the system automatically switches to a backup path. If all paths are lost—such as during a network outage—the system tries to reconnect once the network is available again. 
 
 > [!NOTE]
 > This version of Multipath does not support users who connect exclusively through WebSocket (TCP-based).
@@ -61,25 +61,25 @@ Users can check the connection status of a remote session from the connection ba
 
 ### Manage RDP Multipath Availability
 
-RDP Multipath is being introduced in phases. If you encounter any issues and wish to temporarily disable Multipath, or if you’re eager to try it before it’s fully rolled out, you can manually control its availability on your session hosts using the following registry key:
+RDP Multipath is rolling out in phases.   
+If you experience issues and want to turn it off temporarily—or if you want to try it early—you can manually enable or disable it on your session hosts using the following registry key:
 
 #### To enable RDP Multipath early (opt in):
 
-Run the following command in an elevated command prompt to set the following registry key value to 100:
+To enable RDP Multipath manually, run the following command in an elevated Command Prompt to set the registry key value to 100:
 
-```
+```bash
 reg add "HKLM\SYSTEM\CurrentControlSet\Control\Terminal Server\RdpCloudStackSettings" /v SmilesV3ActivationThreshold /t REG_DWORD /d 100 /f
 ```
 
 #### To disable RDP Multipath early (opt out):
 
-Run the following command in an elevated command prompt to set the registry key value to 0:
+To disable RDP Multipath manually, run the following command in an elevated Command Prompt to set the registry key value to 0:
 
-```
+```bash
 reg add "HKLM\SYSTEM\CurrentControlSet\Control\Terminal Server\RdpCloudStackSettings" /v SmilesV3ActivationThreshold /t REG_DWORD /d 0 /f
 ```
 
-  
 > [!NOTE]
 > After updating the registry key, users must disconnect and reconnect to the session host for their Windows 365 Cloud PC for the change to take effec.
 
