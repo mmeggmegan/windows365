@@ -13,35 +13,39 @@ ms.topic:    # Add the ms.topic value
 ms.date:     07/01/2025
 ---
 
-# Use RDP Multipath to improve connections to Windows 365 Cloud PC
+# Use RDP Multipath with Windows 365
 
 ## Overview
 
-RDP Multipath enhances session reliability and performance in Windows 365 by intelligently managing multiple network paths. This feature ensures users experience smoother, more consistent connections—especially in environments with variable network conditions.
+RDP Multipath enhances the reliability and performance of connection to Windows 365 Cloud PCs by intelligently managing multiple network paths. This feature delivers smooth user experience even in environments with variable network conditions.
 
-RDP Multipath is built on top of RDP Shortpath and uses Interactive Connectivity Establishment (ICE) to evaluate and select the most reliable transport path in real time.
+RDP Multipath extends RDP Shortpath and leverages Interactive Connectivity Establishment (ICE) to dynamically identify and choose the most reliable transport path in real time.
 
 > [!IMPORTANT]
-> __RDP Multipath is now Generally Available (GA).__ We are currently rolling out this connection-level feature to production in a phased manner. Until the rollout reaches 100%, you may not experience RDP Multipath consistently across all connections. The progression to each new phase will be quality-driven, ensuring a stable and reliable experience throughout the deployment.
+> __RDP Multipath is now Generally Available (GA).__ We are actively rolling out this feature to production in phases, with an increasing percentage of connections benefiting from RDP Multipath as deployment progresses. During this period, not all connections will use RDP Multipath immediately. Each phase is guided by our commitment to quality, ensuring a stable and reliable experience for all users as we move toward full availability.
 
-### Benefits
+### RDP Multipath Benefits
 
-- __Seamless integration__: No configuration changes are needed beyond ensuring your environment supports RDP Shortpath. For more information, see our blog on [optimizing RDP connectivity](https://techcommunity.microsoft.com/discussions/windows365discussions/optimizing-rdp-connectivity-for-windows-365/3554327)..
+- __Seamless integration__: No configuration changes are needed beyond ensuring your environment supports [RDP Shortpath](/windows-365/enterprise/rdp-shortpath-public-networks).
 
 - __Intelligent path management__: ICE discovers and evaluates multiple RDP Shortpath routes using STUN (Simple Traversal Underneath NAT) and TURN (Traversal Using Relays around NAT) protocols.
 
 - __Enhanced reliability__: Backup paths remain on standby. If the active path becomes unstable or fails, RDP Multipath automatically switches to the next best path, reducing session drops and interruptions.
 
 > [!IMPORTANT]
-> If all paths fail due to a local network outage, the system will attempt to reconnect once connectivity is restored.
+> If all paths fail example due to a local network outage, the system will attempt to reconnect once connectivity is restored.
 
 ### How does this work?
 
-RDP Multipath leverages redundant links based on the paths available, discovered using ICE (Interactive Connectivity Establishment). The active and redundant paths may consist of combinations such as UDP over STUN or UDP over Relay, or multiple UDP over Relay. If the active path breaks, the system will move to the next optimized redundant path. Once all the links are broken, the auto reconnect flow will be initiated. This approach significantly improves connectivity reliability and. However, in situations where all network paths are broken, such as a host router failure or network flap within the user's network setup, users will experience a disconnect and will be auto reconnected once network paths are available. Users relying solely on WebSocket (TCP based) connections will also not benefit from this version of Multipath. Support for TCP based connectivity scenarios will be available in future updates.  
-  
-![Multipath diagram](media/rdp-multipath/multipath-diagram.png)
+RDP Multipath uses multiple network paths, discovered with Interactive Connectivity Establishment (ICE), to improve connection reliability. These paths can include combinations like UDP over STUN or UDP over Relay. If the main connection fails, the system automatically switches to a backup path. If all paths are lost—such as during a network outage—the system will try to reconnect once the network is available again. 
 
-In this user scenario, the primary active path is the connection of UDP via STUN, supplemented by two redundant UDP connections through a TURN server.
+> [!NOTE]
+> Users who connect only through WebSocket (TCP-based) will not benefit from this version of Multipath. Support for TCP-based connections is planned for future updates.
+
+  
+Here is an example of a setup that might use UDP via STUN as the main path, with two backup UDP connections through a TURN server..  
+
+![Multipath diagram](media/rdp-multipath/multipath-diagram.png)
 
 ### Requirements
 
@@ -49,37 +53,35 @@ In this user scenario, the primary active path is the connection of UDP via STUN
 
 - __Client Version__: Requires the latest version of the Remote Desktop client (MSRDC) or Windows App, starting from the January 2025 release (version 1.2.6074 or later)..
 
-### Verify RDP Multipath is used
+### Verify RDP Multipath connectivity
 
 Users can check the connection status of a remote session from the connection bar, which shows RDP Multipath is enabled, as shown in the following example screenshot:
 
 ![A screenshot of connection information showing that RDP Multipath is enabled.](https://review.learn.microsoft.com/en-us/azure/virtual-desktop/media/rdp-multipath/rdp-multipath-connection-bar.png)
 
-### Opt-in or Opt-out of the RDP Multipath
+### Manage RDP Multipath Availability
 
-RDP Multipath is being rolled out in phases. If you’d like to manually control the feature availability on your session hosts, you can use the following registry key to either opt in or opt out.
+RDP Multipath is being introduced in phases. If you encounter any issues and wish to temporarily disable Multipath, or if you’re eager to try it before it’s fully rolled out, you can manually control its availability on your session hosts using the following registry key:
 
-#### Opt-in to RDP Multipath
+#### To enable RDP Multipath early (opt in):
 
-To enable RDP Multipath ahead of the full rollout, set the following registry key value to 100:
+Run the following command in an elevated command prompt to set the following registry key value to 100:
 
 ```
 reg add "HKLM\SYSTEM\CurrentControlSet\Control\Terminal Server\RdpCloudStackSettings" /v SmilesV3ActivationThreshold /t REG_DWORD /d 100 /f
 ```
 
-#### Opt-out of RDP Multipath
+#### To disable RDP Multipath early (opt out):
 
-To enable RDP Multipath ahead of the full rollout, set the following registry key value to 100:  
+Run the following command in an elevated command prompt to set the registry key value to 0:
 
 ```
 reg add "HKLM\SYSTEM\CurrentControlSet\Control\Terminal Server\RdpCloudStackSettings" /v SmilesV3ActivationThreshold /t REG_DWORD /d 0 /f
 ```
 
   
-### 
-
 > [!NOTE]
-> After updating the registry key, users must disconnect and reconnect to the session host for the change to take effect.
+> After updating the registry key, users must disconnect and reconnect to the session host for their Windows 365 Cloud PC for the change to take effec.
 
 ### 
 
