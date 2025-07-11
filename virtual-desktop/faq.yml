@@ -4,6 +4,7 @@ metadata:
   description: Frequently asked questions and best practices for Azure Virtual Desktop.
   author: ErikjeMS
   ms.topic: faq
+  ms.service: azure-virtual-desktop
   ms.date: 10/23/2023
   ms.author: avdcontent
   ms.custom: docs_inherited 

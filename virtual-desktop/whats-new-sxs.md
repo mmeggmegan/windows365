@@ -1,8 +1,8 @@
 ---
 title: What's new in the Azure Virtual Desktop SxS Network Stack? - Azure
 description: New features and product updates for the Azure Virtual Desktop SxS Network Stack.
-author: brandondombrowsky
-ms.author: bdombrowsky
+author: gundarev
+ms.author: dgundarev
 ms.topic: release-notes
 ms.date: 06/03/2025
 ms.custom: references_regions
@@ -31,8 +31,29 @@ Here's information about the SxS Network Stack.
 
 | Release | Latest version |
 |--|--|
-| Production | 1.0.2502.25400  |
-| Validation | 1.0.2502.25800  |
+| Production | 1.0.2502.25870  |
+| Validation | 1.0.2505.08450  |
+
+## Version 1.0.2505.08450
+
+*Published July 2025*
+
+In this release, we've made the following changes:
+
+- Added enhancements to encoding and media processing for improved performance.
+- Fixed issues affecting Azure Active Directory (AAD) authentication.
+- Improved reliability of performance counters and diagnostics.
+- Resolved multiple reliability issues across reconnect and shutdown flows.
+- Fixed high-DPI rendering issues for notification icons.
+
+## Version 1.0.2502.25870
+
+*Published July 2025*
+
+In this release, we've made the following changes:
+
+- Connection reliability bug fixes.
+- Resolved an issue where Azure Virtual Desktop sessions could become stuck at the Welcome screen.
 
 ## Version 1.0.2502.25800
 

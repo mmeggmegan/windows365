@@ -7,7 +7,7 @@ keywords:
 author: ErikjeMS  
 ms.author: erikje
 manager: dougeby
-ms.date: 06/12/2025
+ms.date: 07/08/2025
 ms.topic: whats-new
 ms.service: windows-365-link
 ms.subservice:
@@ -34,6 +34,13 @@ ms.collection:
 Learn what new features are available in Windows 365 Link.
 
 For information about Windows 365 Enterprise new features, see [What's new in Windows 365 Enterprise](../enterprise/whats-new.md).
+
+<!-- ########################## -->
+## Week of July 7, 2025
+
+#### New Connection Center<!--57467212-->
+
+Users can now access the Connection Center by using the Control-Alt-Delete menu. For more information, see [Connection Center](sign-in.md#connection-center).
 
 <!-- ########################## -->
 ## Week of June 9, 2025
