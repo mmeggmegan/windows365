@@ -81,7 +81,7 @@ reg add "HKLM\SYSTEM\CurrentControlSet\Control\Terminal Server\RdpCloudStackSett
 ```
 
 > [!NOTE]
-> After updating the registry key, users must disconnect and reconnect to the session host for their Windows 365 Cloud PC for the change to take effec.
+> After updating the registry key, users must disconnect and reconnect to the session host for their Windows 365 Cloud PC for the change to take effect.
 
 
 
