@@ -11,6 +11,20 @@ ms.service:  windows-365
 # ms.prod:   # To use ms.prod, uncomment it and delete ms.service
 ms.topic:    how-to
 ms.date:     07/10/2025
+
+# optional metadata
+
+#ROBOTS:
+#audience:
+
+ms.reviewer: ridalwan
+ms.suite: ems
+search.appverid: MET150
+#ms.tgt_pltfrm:
+ms.custom: intune-azure; get-started
+ms.collection:
+- M365-identity-device-management
+- tier2
 ---
 
 # Use RDP Multipath with Windows 365
