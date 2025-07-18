@@ -614,7 +614,8 @@ Here are the RDP properties that you can use to configure display settings.
 ### `screen mode id`
 
 - **Syntax**: `screen mode id:i:<value>`
-- **Description**: Determines whether a remote session window appears full screen when you launch the connection.
+- **Description**: Determines whether a remote session window appears full screen when you launch the connection. If "use multimon" is also turned on, this setting will be overridden and the session will open across all monitors.
+
 - **Supported values**:
   - `1`: A remote session appears in a window.
   - `2`: A remote session appears full screen.
