@@ -38,7 +38,7 @@ Downsizing may impact support for nested virtualization. For more information, s
 ## Resizing details
 
 > [!IMPORTANT]
-> Before triggering a resize for Windows 365 Enterprise Cloud PCs, ensure that you are following best license assignment practices. Resizing Cloud PCs is simpler when using discrete Entra groups for licensing that are different from the Entra groups used for provisioning policy targeting. For more information, follow [Provisioning in Windows 365 | Microsoft Learn](/windows-365/enterprise/provisioning)
+> Before triggering a resize for Windows 365 Enterprise Cloud PCs, ensure that you are following best license assignment practices. Resizing Cloud PCs is simpler when using discrete Entra groups for licensing that are different from the Entra groups used for provisioning policy targeting. For more information, follow [Provisioning in Windows 365 | Microsoft Learn](/windows-365/enterprise/provisioning).
 
 For Windows 365 Enterprise, the Cloud PC size is tied to the license assigned to its user. When resizing Cloud PCs that have been provisioned with direct assigned licenses, the Windows 365 service will do the license reassignment on behalf of the admin. When resizing Cloud PCs that have been provisioned with group-based licenses (assigned through Entra group membership), the Cloud PC will enter the **Resize pending license** state. Once in this state, the admin needs to assign the appropriate target license to trigger the resize. 
 
