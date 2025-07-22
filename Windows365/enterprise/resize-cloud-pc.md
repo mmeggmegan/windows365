@@ -44,11 +44,9 @@ For Windows 365 Enterprise, the Cloud PC size is tied to the license assigned to
 
 The **Resize pending license** state:
 
-- has a duration of 48 hours. If the original license is removed but the new license isn't assigned within 48 hours, the device goes into a [grace period](device-management-overview.md).
+- Has a duration of 48 hours. If the original license is removed but the new license isn't assigned within 48 hours, the device goes into a [grace period](device-management-overview.md).
 - If the wrong target license is chosen, the Cloud PC is provisioned matching the configuration of that wrong license.
-
 - If the source license isn't removed first, and the new license is assigned to the user, the new license is used to resize the current Cloud PC. In addition, the original license is used to provision another, new Cloud PC for the user.
-
 - If the source license isn't removed, and the target license isn't assigned within 48 hours, the device returns to the **Provisioned** state.
 
 If you have a combination of paid and trial licenses, the resize feature uses your paid licenses first. After these licenses run out, the resize operation uses your trial licenses.
