@@ -265,6 +265,8 @@ items:
           href: restore-bulk.md
         - name: Share restore points to a storage account
           href: share-restore-points-storage.md
+      - name: RDP Multipath
+        href: rdp-multipath.md
       - name: RDP Shortpath
         items:
         - name: RDP Shortpath for public networks 
