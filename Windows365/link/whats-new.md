@@ -38,7 +38,7 @@ For information about Windows 365 Enterprise new features, see [What's new in Wi
 <!-- ########################## -->
 ## Week of July 7, 2025
 
-### New build released: Windows 365 Link June Quality Update version 26100.4653
+### New build released: Windows 365 Link July Quality Update version 26100.4653
 
 #### New Connection Center<!--57467212-->
 
