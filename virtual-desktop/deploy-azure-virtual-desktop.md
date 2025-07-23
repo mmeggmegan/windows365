@@ -230,7 +230,7 @@ Here's how to create a host pool with a session host configuration using the Azu
    | Subnet | Select a subnet from your virtual network. |
    | Network security group type | Select whether you want to use a network security group (NSG).<br /><br />- **Basic** creates a new NSG and you can specify public inbound ports.<br /><br />- **Advanced** enables you to select an existing NSG.<br /><br />You don't need to open inbound ports to connect to Azure Virtual Desktop. Learn more at [Understanding Azure Virtual Desktop network connectivity](network-connectivity.md). |
    | **Domain to join** |  |
-   | Select which directory you would like to join | Select **Active Directory**, then select the key vault that contains the secrets for the username and password for the domain join account.<br /><br />You can optionally specify a domain name and organizational unit path. |
+   | Select which directory you would like to join | Choose either **Active Directory** or **Microsoft Entra ID**. If choosing **Active Directory**, select the key vault that contains the secrets for the username and password for the domain join account.<br /><br />You can optionally specify a domain name and organizational unit path. |
    | **Virtual Machine Administrator account** | Select the key vault and secret for the username and password for the local administrator account of the new session host VMs. The username and password must meet [the requirements for Windows VMs in Azure](/azure/virtual-machines/windows/faq#what-are-the-password-requirements-when-creating-a-vm-). |
    | **Custom configuration** |  |
    | Custom configuration script URL | If you want to run a PowerShell script during deployment you can enter the URL here. |

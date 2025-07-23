@@ -37,13 +37,17 @@ Downsizing may impact support for nested virtualization. For more information, s
 
 ## Resizing details
 
-The **Resize pending license** state has a duration of 48 hours. If the original license is removed but the new license isn't assigned within 48 hours, the device goes into a [grace period](device-management-overview.md).
+> [!IMPORTANT]
+> Before triggering a resize for Windows 365 Enterprise Cloud PCs, ensure that you are following best license assignment practices. Resizing Cloud PCs is simpler when using discrete Entra groups for licensing that are different from the Entra groups used for provisioning policy targeting. For more information, follow [Provisioning in Windows 365 | Microsoft Learn](/windows-365/enterprise/provisioning).
 
-If the wrong target license is chosen, the Cloud PC is provisioned matching the configuration of that wrong license.
+For Windows 365 Enterprise, the Cloud PC size is tied to the license assigned to its user. When resizing Cloud PCs that have been provisioned with direct assigned licenses, the Windows 365 service will do the license reassignment on behalf of the admin. When resizing Cloud PCs that have been provisioned with group-based licenses (assigned through Entra group membership), the Cloud PC will enter the **Resize pending license** state. Once in this state, the admin needs to assign the appropriate target license to trigger the resize. 
 
-If the source license isn't removed first, and the new license is assigned to the user, the new license is used to resize the current Cloud PC. In addition, the original license is used to provision another, new Cloud PC for the user.
+The **Resize pending license** state:
 
-If the source license isn't removed, and the target license isn't assigned within 48 hours, the device returns to the **Provisioned** state.
+- Has a duration of 48 hours. If the original license is removed but the new license isn't assigned within 48 hours, the device goes into a [grace period](device-management-overview.md).
+- If the wrong target license is chosen, the Cloud PC is provisioned matching the configuration of that wrong license.
+- If the source license isn't removed first, and the new license is assigned to the user, the new license is used to resize the current Cloud PC. In addition, the original license is used to provision another, new Cloud PC for the user.
+- If the source license isn't removed, and the target license isn't assigned within 48 hours, the device returns to the **Provisioned** state.
 
 If you have a combination of paid and trial licenses, the resize feature uses your paid licenses first. After these licenses run out, the resize operation uses your trial licenses.
 
