@@ -28,8 +28,6 @@ In this release, we've made the following changes:
 
 - Security fixes.
 
-- Bug fixes.
-
 ## Updates for version 1.0.2501.28001
 
 *Published: February 19, 2025*
