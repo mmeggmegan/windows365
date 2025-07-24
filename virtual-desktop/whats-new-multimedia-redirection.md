@@ -18,7 +18,7 @@ The following table shows the latest available version of multimedia redirection
 
 | Release | Latest version | Download |
 |---------|----------------|----------|
-| Public | 1.0.2501.28001 | [Multimedia redirection](https://aka.ms/avdmmr/msi) |
+| Public | 1.0.2507.21006 | [Multimedia redirection](https://aka.ms/avdmmr/msi) |
 
 ## Updates for version 1.0.2507.21006
 
