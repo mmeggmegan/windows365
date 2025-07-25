@@ -49,19 +49,19 @@ These windows help you efficiently plan and manage Cloud PC maintenance activiti
 To create a maintenance window, follow these steps:
 
 1. Sign in to the [Microsoft Intune admin center](https://go.microsoft.com/fwlink/?linkid=2109431). 
-2. Select **Tenant administration** > **Cloud PC maintenance windows (preview)** > **Create**.
+1. Select **Tenant administration** > **Cloud PC maintenance windows (preview)** > **Create**.
 
     ![Screencap create a Cloud PC maintenance window.](media/cloud-pc-maintenance-window/create-cloud-pc-maintenance-window.png)
-
+   
 3. On the **Basics** page, type a **Name** and **Description**.
-4. On the **Configuration** page, under **Weekday schedule** and/or **Weekend schedule**, select the Cloud PC local time **Start** and **End** times. Each window must be at least two hours in duration.
+1. On the **Configuration** page, under **Weekday schedule** and/or **Weekend schedule**, select the Cloud PC local time **Start** and **End** times. Each window must be at least two hours in duration.
 
     ![Screencap configure a Cloud PC maintenance window.](media/cloud-pc-maintenance-window/configure-cloud-pc-maintenance-window.png)
-
+   
 5. Under **User notification**, for **Upcoming change**, select the lead time you’d like to use for notifying the user of the impending disruption. The user is notified in-session and can’t override or postpone the maintenance window.
 6. Select **Next**.
 7. On the **Assignments** page, select **Add groups**.
-8. In the **Select groups to include** pane, select the groups that you want included in this maintenance window > **Select**.
+1. In the **Select groups to include** pane, select the user groups that you want included in this maintenance window > **Select**.
 9. Select **Next**.
 10. On the **Review + create** page, select **Create**.
 11. Follow the steps to [Bulk resize Cloud PCs](resize-cloud-pc-bulk.md) and make sure to select the **Use Cloud PC maintenance windows** box on the **Basics** page.
