@@ -1,6 +1,6 @@
 ---
 # required metadata
-title: Windows 365 approved partners
+title: Windows 365 partners
 titleSuffix:
 description: Learn about the offerings that approved partners provide to Windows 365.
 keywords:
@@ -19,7 +19,7 @@ ms.assetid:
 #ROBOTS:
 #audience:
 
-ms.reviewer: chbrinkh
+ms.reviewer: mmegg
 ms.suite: ems
 search.appverid: MET150
 #ms.tgt_pltfrm:
@@ -29,11 +29,16 @@ ms.collection:
 - tier2
 ---
 
-# Windows 365 approved partners
+# Windows 365 partners
 
-Windows 365 gives opportunities to independent software vendors. When partners build their Windows apps, they can reach a broader audience by delivering their apps in the cloud.
+Windows 365 is a cloud-native Windows platform that delivers Cloud PCs through the Microsoft Cloud. Alongside its native capabilities, Windows 365 is supported by an ecosystem of technology partners that extend or complement the platform for customers with specialized or complex scenarios.
 
-Here’s the list of approved partners that build and innovate with Windows 365.
+The partners listed on this page are independent software vendors (ISVs) and hardware vendors whose products have documented compatibility with Windows 365.
+
+What this page does not include: This page does not list system integrators, deployment partners, managed service providers (MSPs), or resellers. To find a partner who can help you plan, deploy, or manage a Windows 365 environment, visit the Microsoft Partner Finder.
+
+Use this page to explore technology solutions that work alongside Windows 365 and identify options that fit your deployment needs.
+
 
 ## 10ZiG
 
