@@ -65,6 +65,8 @@ media/partners/controlup.png
 
 ### [IGEL](https://www.igel.com/microsoft/)
 
+media/partners/igel.png
+
 | **Overview** | Helps organizations provide secure endpoint access to Windows 365 Cloud PCs using IGEL OS and centrally managed endpoint configurations. |
 |---|---|
 | **Solutions or products** | IGEL provides a secure endpoint operating system and management tooling designed for cloud desktop access scenarios, including Windows 365, with configuration guidance for connecting from IGEL-powered endpoints. |
