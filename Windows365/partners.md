@@ -40,17 +40,19 @@ What this page does not include: This page does not list system integrators, dep
 Use this page to explore technology solutions that work alongside Windows 365 and identify options that fit your deployment needs. Partners are listed alphabetically. 
 
 
+
+
+
 <details>
-<summary><a href="https://www.efficientether.co.uk/">EfficientEther</a></summary>
+<summary>EfficientEther</summary>
 
-<img src="./media/partners/EfficientEther.png" width="120"/>
-
-| **Overview** | EfficientEther helps organizations plan, optimize, deploy, and manage Windows 365 Cloud PCs through enhanced visibility, governance, AI-driven analysis, automation, and application readiness. Its solutions provide intelligent insights for cost optimization, migration planning, operational improvement, and service delivery, while reducing deployment blockers through modern application packaging and readiness workflows. |
+| <img src="./media/partners/EfficientEther.png" width="120" alt="EfficientEther logo" /> | [EfficientEther](https://www.efficientether.co.uk/) helps organizations plan, optimize, deploy, and manage Windows 365 Cloud PCs through enhanced visibility, governance, AI‑driven analysis, automation, and application readiness. Its solutions provide intelligent insights for cost optimization, migration planning, operational improvement, and service delivery, while reducing deployment blockers through modern application packaging and readiness workflows. |
+|---|---|
 | Solutions or Products | **EtherInsights** – Provides unified visibility, governance, and cost optimization across Microsoft 365, Azure, and Windows 365. Capabilities include Cloud PC monitoring, reporting, migration planning, setup guidance, wizard-based configuration workflows, assistant-driven analysis, and operational actions. Built-in intelligence supports recommendations and improved service delivery.<br><br>**EtherAssist** – Delivers AI-driven IT operations and automation with workflow, ITSM, and compliance support. Helps teams streamline troubleshooting, reduce escalations, and maintain consistent operational governance.<br><br>**EtherApps Forge** – Provides application assessment, capture, and packaging modernization for Windows 365 environments. MSIX packaging is a core focus, with support for App Attach and additional output formats such as MSI and IntuneWin. This helps organizations reduce application readiness blockers and accelerate migrations to modern Windows and Cloud PC environments. |
 | Best for | - Organizations seeking to optimize Microsoft cloud desktop operations, improve governance, or migrate from legacy virtual desktop environments to Windows 365 Cloud PCs.<br>- Managed service providers and IT services teams needing unified reporting, repeatable automation, and scalable Cloud PC deployment and management across one or more tenants. |
 | Windows 365 integration | EfficientEther supports planning, migration, deployment, and ongoing management for Windows 365 environments. It provides Cloud PC visibility, setup and configuration support, intelligent analysis, operational actions, governance, automation, and TCO-based planning. It also supports migration scenarios from Azure Virtual Desktop and other legacy desktop environments, enabling full Cloud PC lifecycle delivery from build through ongoing management. |
 | Who it's for | End-user computing and virtual desktop administrators, IT operations and helpdesk teams, managed service providers, security and compliance stakeholders, and FinOps or cloud optimization teams. |
-| Resources | Use Cases - EtherAssist<br>Windows 365 / Cloud PC Documentation<br>EtherInsights Documentation<br>EtherAssist Documentation<br>EtherApps Forge Documentation |
+| Resources | [Use Cases - EtherAssist](https://docs.etherassist.ai/)<br>[Windows 365 / Cloud PC Documentation](https://docs.etherinsights.ai/getting-started/cloud-pc)<br>[EtherInsights Documentation](https://docs.etherinsights.ai/)<br>[EtherAssist Documentation](https://docs.etherassist.ai/)<br>[EtherApps Forge Documentation](https://www.etherapps.ai) |
 | Contact | **Sales:** sales@efficientether.co.uk<br>**Support:** support@efficientether.co.uk<br>**Marketplace listing:** View listing |
 
 </details>
