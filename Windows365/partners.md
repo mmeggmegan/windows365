@@ -45,10 +45,7 @@ Use this page to explore technology solutions that work alongside Windows 365 an
 
 <img src="./media/partners/EfficientEther.png" width="120"/>
 
-
-| Field | Content |
-|---|---|
-| Overview | EfficientEther helps organizations plan, optimize, deploy, and manage Windows 365 Cloud PCs through enhanced visibility, governance, AI-driven analysis, automation, and application readiness. Its solutions provide intelligent insights for cost optimization, migration planning, operational improvement, and service delivery, while reducing deployment blockers through modern application packaging and readiness workflows. |
+| **Overview** | EfficientEther helps organizations plan, optimize, deploy, and manage Windows 365 Cloud PCs through enhanced visibility, governance, AI-driven analysis, automation, and application readiness. Its solutions provide intelligent insights for cost optimization, migration planning, operational improvement, and service delivery, while reducing deployment blockers through modern application packaging and readiness workflows. |
 | Solutions or Products | **EtherInsights** – Provides unified visibility, governance, and cost optimization across Microsoft 365, Azure, and Windows 365. Capabilities include Cloud PC monitoring, reporting, migration planning, setup guidance, wizard-based configuration workflows, assistant-driven analysis, and operational actions. Built-in intelligence supports recommendations and improved service delivery.<br><br>**EtherAssist** – Delivers AI-driven IT operations and automation with workflow, ITSM, and compliance support. Helps teams streamline troubleshooting, reduce escalations, and maintain consistent operational governance.<br><br>**EtherApps Forge** – Provides application assessment, capture, and packaging modernization for Windows 365 environments. MSIX packaging is a core focus, with support for App Attach and additional output formats such as MSI and IntuneWin. This helps organizations reduce application readiness blockers and accelerate migrations to modern Windows and Cloud PC environments. |
 | Best for | - Organizations seeking to optimize Microsoft cloud desktop operations, improve governance, or migrate from legacy virtual desktop environments to Windows 365 Cloud PCs.<br>- Managed service providers and IT services teams needing unified reporting, repeatable automation, and scalable Cloud PC deployment and management across one or more tenants. |
 | Windows 365 integration | EfficientEther supports planning, migration, deployment, and ongoing management for Windows 365 environments. It provides Cloud PC visibility, setup and configuration support, intelligent analysis, operational actions, governance, automation, and TCO-based planning. It also supports migration scenarios from Azure Virtual Desktop and other legacy desktop environments, enabling full Cloud PC lifecycle delivery from build through ongoing management. |
@@ -59,9 +56,10 @@ Use this page to explore technology solutions that work alongside Windows 365 an
 </details>
 
 
+<details>
+<summary><a href="https://www.controlup.com/">ControlUp</a></summary>
 
-### [ControlUp](https://www.controlup.com/)
-media/partners/controlup.png
+<img src="./media/partners/ControlUp.png" width="120"/>
 
 | **Overview** | Helps information technology teams identify and fix end-user experience and performance issues across Windows 365 Cloud PCs (and can also support Azure Virtual Desktop) by providing real-time visibility and troubleshooting across the Cloud PC, endpoint device, and connection path. |
 |---|---|
@@ -71,6 +69,8 @@ media/partners/controlup.png
 | **Who it’s for** | End user computing and virtual desktop administrators, information technology operations and service desk teams, and digital workplace owners. |
 | **Resources** | ControlUp press release: https://www.controlup.com/press/controlup-enhances-support-for-windows-365/<br>YouTube video: https://www.youtube.com/watch?v=7IK288BMapY |
 | **Contact** | **Sales:** Microsoft@Controlup.com \| **Support:** Controlup.com/Microsoft \| **Marketplace:** ControlUp ONE |
+
+</details>
 
 ### [IGEL](https://www.igel.com/microsoft/)
 
@@ -84,6 +84,8 @@ media/partners/igel.png
 | **Who it’s for** | Endpoint administrators, end user computing and virtual desktop teams, security and compliance stakeholders, and information technology admins managing devices used to access Windows 365. |
 | **Resources** | IGEL press release: https://www.igel.com/about-us/press-releases/igel-deepens-collaboration-with-microsoft-releases-new-igel-os-support-for-windows-365-frontline-microsoft-intune-and-microsoft-azure-stack-hci/<br>IGEL and Microsoft reference architectures announcement: https://markets.businessinsider.com/news/stocks/igel-releases-joint-reference-architectures-for-secured-cloud-desktops-in-collaboration-with-microsoft-1035981114 |
 | **Contact** | **Sales:** https://www.igel.com/microsoft/ \| **Support:** (link) \| **Marketplace:** (link) |
+
+</details> 
 
 ### [LoginVSI](https://www.loginvsi.com/)  
 
