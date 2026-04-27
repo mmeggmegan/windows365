@@ -39,6 +39,8 @@ What this page does not include: This page does not list system integrators, dep
 
 Use this page to explore technology solutions that work alongside Windows 365 and identify options that fit your deployment needs. Partners are listed alphabetically. 
 
+
+<img src="../media/partners/EfficientEther.png" width="120"/>
 ### [EfficientEther](https://www.efficientether.co.uk/)
 
 
