@@ -39,19 +39,26 @@ What this page does not include: This page does not list system integrators, dep
 
 Use this page to explore technology solutions that work alongside Windows 365 and identify options that fit your deployment needs. Partners are listed alphabetically. 
 
+<details>
+<summary><a href="https://www.efficientether.co.uk/">EfficientEther</a></summary>
 
 <img src="../media/partners/EfficientEther.png" width="120"/>
-### [EfficientEther](https://www.efficientether.co.uk/)
 
-
-| **Overview** | Helps unblock Windows 365 Cloud PC deals by improving visibility and cost optimization across Microsoft cloud services, adding operational automation, and accelerating application readiness and packaging. |
+| Field | Content |
 |---|---|
-| **Solutions or products** | EfficientEther combines three products: **EtherInsights** (unified visibility and cost optimization across Microsoft 365, Azure, and Windows 365), **EtherAssist** (agentic AI-driven IT operations and automation with workflow/IT service management integration), and **EtherApps Forge** (application assessment and packaging modernization, including modernization to MSIX, to reduce app readiness blockers for Windows 365 pilots and rollouts). |
-| **Best for** | - Customers optimizing Microsoft cloud desktop operations and/or planning migrations from legacy virtual desktop infrastructure to Windows 365 Cloud PCs.<br>- IT services teams managing multiple tenants that need unified reporting, standardized runbooks, and repeatable automation. |
-| **Windows 365 integration** | Adds “on top of” visibility, governance, and operational automation, including migration acceleration and application packaging modernization, to help customers plan, execute, and run Windows 365 at scale. |
-| **Who it’s for** | End user computing and virtual desktop administrators, IT operations and helpdesk teams, security operations and compliance stakeholders, and FinOps/cloud optimization teams. |
-| **Resources** | Demo & Q&A: https://app.onecal.io/b/ryan-mangan/ee-etherinsights-intro |
-| **Contact** | **Sales:** https://www.efficientether.co.uk/ \| **Support:** info@efficientether.co.uk \| **Marketplace:** (link) |
+| Website | https://www.efficientether.co.uk/ |
+| Tags | Monitoring and analytics \| Remote monitoring and management (RMM) \| Optimization or performance tooling \| Digital employee experience (DEX) |
+| Overview | EfficientEther helps organizations plan, optimize, deploy, and manage Windows 365 Cloud PCs through enhanced visibility, governance, AI-driven analysis, automation, and application readiness. Its solutions provide intelligent insights for cost optimization, migration planning, operational improvement, and service delivery, while reducing deployment blockers through modern application packaging and readiness workflows. |
+| Solutions or Products | **EtherInsights** – Provides unified visibility, governance, and cost optimization across Microsoft 365, Azure, and Windows 365. Capabilities include Cloud PC monitoring, reporting, migration planning, setup guidance, wizard-based configuration workflows, assistant-driven analysis, and operational actions. Built-in intelligence supports recommendations and improved service delivery.<br><br>**EtherAssist** – Delivers AI-driven IT operations and automation with workflow, ITSM, and compliance support. Helps teams streamline troubleshooting, reduce escalations, and maintain consistent operational governance.<br><br>**EtherApps Forge** – Provides application assessment, capture, and packaging modernization for Windows 365 environments. MSIX packaging is a core focus, with support for App Attach and additional output formats such as MSI and IntuneWin. This helps organizations reduce application readiness blockers and accelerate migrations to modern Windows and Cloud PC environments. |
+| Best for | - Organizations seeking to optimize Microsoft cloud desktop operations, improve governance, or migrate from legacy virtual desktop environments to Windows 365 Cloud PCs.<br>- Managed service providers and IT services teams needing unified reporting, repeatable automation, and scalable Cloud PC deployment and management across one or more tenants. |
+| Windows 365 integration | EfficientEther supports planning, migration, deployment, and ongoing management for Windows 365 environments. It provides Cloud PC visibility, setup and configuration support, intelligent analysis, operational actions, governance, automation, and TCO-based planning. It also supports migration scenarios from Azure Virtual Desktop and other legacy desktop environments, enabling full Cloud PC lifecycle delivery from build through ongoing management. |
+| Who it's for | End-user computing and virtual desktop administrators, IT operations and helpdesk teams, managed service providers, security and compliance stakeholders, and FinOps or cloud optimization teams. |
+| Resources | Use Cases - EtherAssist<br>Windows 365 / Cloud PC Documentation<br>EtherInsights Documentation<br>EtherAssist Documentation<br>EtherApps Forge Documentation |
+| Contact | **Sales:** sales@efficientether.co.uk<br>**Support:** support@efficientether.co.uk<br>**Marketplace listing:** View listing |
+
+</details>
+
+
 
 ### [ControlUp](https://www.controlup.com/)
 media/partners/controlup.png
