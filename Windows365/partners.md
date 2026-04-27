@@ -39,15 +39,15 @@ What this page does not include: This page does not list system integrators, dep
 
 Use this page to explore technology solutions that work alongside Windows 365 and identify options that fit your deployment needs. Partners are listed alphabetically. 
 
+
 <details>
 <summary><a href="https://www.efficientether.co.uk/">EfficientEther</a></summary>
 
-<img src="../media/partners/EfficientEther.png" width="120"/>
+<img src="./media/partners/EfficientEther.png" width="120"/>
+
 
 | Field | Content |
 |---|---|
-| Website | https://www.efficientether.co.uk/ |
-| Tags | Monitoring and analytics \| Remote monitoring and management (RMM) \| Optimization or performance tooling \| Digital employee experience (DEX) |
 | Overview | EfficientEther helps organizations plan, optimize, deploy, and manage Windows 365 Cloud PCs through enhanced visibility, governance, AI-driven analysis, automation, and application readiness. Its solutions provide intelligent insights for cost optimization, migration planning, operational improvement, and service delivery, while reducing deployment blockers through modern application packaging and readiness workflows. |
 | Solutions or Products | **EtherInsights** – Provides unified visibility, governance, and cost optimization across Microsoft 365, Azure, and Windows 365. Capabilities include Cloud PC monitoring, reporting, migration planning, setup guidance, wizard-based configuration workflows, assistant-driven analysis, and operational actions. Built-in intelligence supports recommendations and improved service delivery.<br><br>**EtherAssist** – Delivers AI-driven IT operations and automation with workflow, ITSM, and compliance support. Helps teams streamline troubleshooting, reduce escalations, and maintain consistent operational governance.<br><br>**EtherApps Forge** – Provides application assessment, capture, and packaging modernization for Windows 365 environments. MSIX packaging is a core focus, with support for App Attach and additional output formats such as MSI and IntuneWin. This helps organizations reduce application readiness blockers and accelerate migrations to modern Windows and Cloud PC environments. |
 | Best for | - Organizations seeking to optimize Microsoft cloud desktop operations, improve governance, or migrate from legacy virtual desktop environments to Windows 365 Cloud PCs.<br>- Managed service providers and IT services teams needing unified reporting, repeatable automation, and scalable Cloud PC deployment and management across one or more tenants. |
