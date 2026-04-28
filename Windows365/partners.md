@@ -69,7 +69,7 @@ Use this page to explore technology solutions that work alongside Windows 365 an
 | **Windows 365 integration** | Adds deeper operational visibility, experience monitoring, and remediation and automation beyond built-in administration experiences to help teams run Cloud PCs more reliably. |
 | **Who it’s for** | End user computing and virtual desktop administrators, information technology operations and service desk teams, and digital workplace owners. |
 | **Resources** | ControlUp press release: https://www.controlup.com/press/controlup-enhances-support-for-windows-365/<br>YouTube video: https://www.youtube.com/watch?v=7IK288BMapY |
-| **Contact** | **Sales:** Microsoft@Controlup.com \| **Support:** Controlup.com/Microsoft \| **Marketplace:** ControlUp ONE |
+| **Contact** | **Sales:** Microsoft@Controlup.com<br> **Support:** [Controlup.com/Microsoft](https://www.controlup.com/Mircosoft)<br> **Marketplace:** [ControlUp ONE](https://marketplace.microsoft.com/en-us/product/controluptechnologies1659551284318.controlup_dex?OCID=AIDcmmm9t2wfa3_SEM__k_CjwKCAjw-dfOBhAjEiwAq0RwIwdKRx_VE6HNfYnO8G1LywMUQb1Zgd9OZ70hFVEAStcEQZGiZOoEYhoC10oQAvD_BwE_k_&tab=Overview) |
 
 </details>
 
