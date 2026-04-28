@@ -73,54 +73,68 @@ Use this page to explore technology solutions that work alongside Windows 365 an
 
 </details>
 
-### [IGEL](https://www.igel.com/microsoft/)
 
-media/partners/igel.png
+<details>
+<summary>IGEL</summary>
 
-| **Overview** | Helps organizations provide secure endpoint access to Windows 365 Cloud PCs using IGEL OS and centrally managed endpoint configurations. |
+| <img src="./media/partners/IGEL.png" width="120" alt="IGEL logo" /> | [IGEL](https://www.igel.com/) provides a secure endpoint operating system and device management platform optimized for cloud workspaces, including Windows 365. It enables organizations to deliver consistent, secure access to Cloud PCs across a wide range of endpoint devices while simplifying endpoint management and reducing total cost of ownership. |
 |---|---|
-| **Solutions or products** | IGEL provides a secure endpoint operating system and management tooling designed for cloud desktop access scenarios, including Windows 365, with configuration guidance for connecting from IGEL-powered endpoints. |
-| **Best for** | - Customers standardizing endpoint strategy for secure access to Windows 365 Cloud PCs from managed, locked-down, or repurposed devices.<br>- Environments with elevated security and operational requirements (for example: healthcare, government, and contact centers) seeking validated patterns for endpoint access to Windows 365.<br>- Organizations using Windows 365 and wanting centrally managed endpoint configurations with a reduced local data footprint. |
-| **Windows 365 integration** | Provides a secure, centrally managed endpoint layer for accessing Cloud PCs, including configuration guidance for connecting to Windows 365 from IGEL endpoints. |
-| **Who it’s for** | Endpoint administrators, end user computing and virtual desktop teams, security and compliance stakeholders, and information technology admins managing devices used to access Windows 365. |
-| **Resources** | IGEL press release: https://www.igel.com/about-us/press-releases/igel-deepens-collaboration-with-microsoft-releases-new-igel-os-support-for-windows-365-frontline-microsoft-intune-and-microsoft-azure-stack-hci/<br>IGEL and Microsoft reference architectures announcement: https://markets.businessinsider.com/news/stocks/igel-releases-joint-reference-architectures-for-secured-cloud-desktops-in-collaboration-with-microsoft-1035981114 |
-| **Contact** | **Sales:** https://www.igel.com/microsoft/ \| **Support:** (link) \| **Marketplace:** (link) |
+| Solutions or Products | **IGEL OS** – A secure, lightweight endpoint operating system designed for cloud workspaces, enabling secure access to Windows 365 Cloud PCs from a wide range of devices.<br><br>**IGEL Universal Management Suite (UMS)** – Provides centralized endpoint management, configuration, and control across distributed environments.<br><br>**IGEL Cloud Gateway** – Enables secure remote access and management of endpoints outside the corporate network. |
+| Best for | - Organizations seeking to modernize endpoint strategy for Windows 365 and other cloud workspaces.<br>- Enterprises looking to reduce hardware costs by repurposing existing devices and extending endpoint lifecycle. |
+| Windows 365 integration | IGEL supports secure and optimized access to Windows 365 Cloud PCs by providing a purpose-built endpoint OS and centralized management platform. It enables organizations to standardize endpoint experiences, improve security posture, and streamline device management for Cloud PC deployments. |
+| Who it's for | End-user computing teams, IT administrators, security teams, and organizations managing distributed or hybrid workforces using Windows 365. |
+| Resources | <!-- SAMPLE: Replace with real links --> [Sample IGEL Resource](https://example.com) |
+| Contact | <!-- SAMPLE: Replace with real contact info --> **Sales:** sample@igel.com<br>**Support:** sample@igel.com<br>**Marketplace listing:** View listing |
 
-</details> 
+</details>
 
-### [LoginVSI](https://www.loginvsi.com/)  
 
-| **Overview** | Hydra is a management control plane for Windows 365 that helps reduce operational overhead and improve cost control for Cloud PC environments. |
+
+<details>
+<summary>LoginVSI</summary>
+
+| <img src="./media/partners/LoginVSI.png" width="120" alt="LoginVSI logo" /> | [LoginVSI](https://www.loginvsi.com/) provides performance validation and load testing solutions for Windows 365 environments. It enables organizations to simulate real-world user workloads, validate scalability, and ensure a high-quality end-user experience before deploying Cloud PCs in production. |
 |---|---|
-| **Solutions or products** | Hydra provides centralized image and update automation, cost controls, and operational workflows designed for administrators and managed service providers. Hydra is positioned as the “control plane for Windows in the Cloud” and includes Windows 365 support. |
-| **Best for** | - Customers that need stronger cost control and operational workflows to run Windows 365 at scale.<br>- Managed service providers that need multi-tenant management capabilities. |
-| **Windows 365 integration** | Adds operational automation and control beyond built-in tooling (for example: image management workflows and cost controls) to help teams run Windows 365 more efficiently. |
-| **Who it’s for** | End user computing and virtual desktop administrators, information technology operations teams, managed service providers. |
-| **Resources** | Login VSI announcement: https://www.loginvsi.com/company/company-news/login-vsi-announces-hydra-2-0-introducing-support-for-windows-365-and-inviting-customers-to-help-shape-the-future-of-cloud-pc-management/ |
-| **Contact** | **Sales:** https://www.loginvsi.com/contact/ \| **Support:** (link) \| **Marketplace:** (link) |
+| Solutions or Products | **Login Enterprise** – A load testing platform that simulates user activity at scale to measure performance and identify bottlenecks in Windows 365 environments.<br><br>**Login PI** – Provides continuous performance monitoring and proactive issue detection to maintain a consistent user experience over time. |
+| Best for | - Organizations preparing for large-scale Windows 365 deployments or migrations.<br>- IT teams validating performance and user experience prior to production rollout. |
+| Windows 365 integration | LoginVSI integrates with Windows 365 by simulating user sessions and workloads to validate performance and scalability. It helps organizations identify constraints, optimize configurations, and ensure readiness for production deployments. |
+| Who it's for | IT administrators, EUC teams, performance engineers, and organizations responsible for deploying and maintaining Windows 365 environments. |
+| Resources | <!-- SAMPLE: Replace with real links --> [Sample LoginVSI Resource](https://example.com) |
+| Contact | <!-- SAMPLE: Replace with real contact info --> **Sales:** sample@loginvsi.com<br>**Support:** sample@loginvsi.com<br>**Marketplace listing:** View listing |
 
-### [Nerdio](https://getnerdio.com)
+</details>
 
-| **Overview** | Helps streamline migration to Windows 365 and simplifies ongoing lifecycle management of Cloud PCs at scale. |
+
+
+<details>
+<summary>Nerdio</summary>
+
+| <img src="./media/partners/Nerdio.png" width="120" alt="Nerdio logo" /> | [Nerdio](https://getnerdio.com/) delivers automation, cost optimization, and management solutions for Windows 365 and Azure Virtual Desktop. Its platform helps organizations simplify deployment, streamline ongoing management, and optimize cloud resource usage. |
 |---|---|
-| **Solutions or products** | Provides a unified desktops-as-a-service management console that supports Windows 365 (and can also centralize Azure Virtual Desktop) to streamline provisioning, lifecycle management, reporting, and operational workflows for Cloud PCs. |
-| **Best for** | - Customers moving from legacy virtual desktop infrastructure platforms (for example, Citrix or Omnissa) and want to accelerate migration to Windows 365.<br>- Teams that want unified Cloud PC lifecycle management and reporting at scale. |
-| **Windows 365 integration** | Adds automation, operational tooling, and cost and usage insights beyond built-in management to simplify day-to-day administration and improve cost efficiency for Windows 365. |
-| **Who it’s for** | End user computing and virtual desktop administrators, cloud operations teams, managed service providers, and information technology admins managing large-scale cloud desktop estates. |
-| **Resources** | Microsoft partner case study: https://partner.microsoft.com/en-us/case-studies/nerdio<br>Nerdio customer story: https://getnerdio.com/customer-story/nerdio-manager-for-enterprise-case-study-3cloud/ |
-| **Contact** | **Sales:** https://getnerdio.com/contact-us/ \| **Support:** (link) \| **Marketplace:** (link) |
+| Solutions or Products | **Nerdio Manager for Enterprise** – Provides centralized management, automation, and optimization for Windows 365 and AVD environments.<br><br>**Nerdio Manager for MSP** – Enables managed service providers to deploy, manage, and optimize multiple customer environments at scale.<br><br>**Cost Optimization Engine** – Delivers insights and automation to reduce Azure and Cloud PC-related costs. |
+| Best for | - Organizations looking to automate and optimize Windows 365 environments.<br>- Managed service providers delivering Cloud PC services across multiple tenants. |
+| Windows 365 integration | Nerdio integrates with Windows 365 by providing automation, policy-based management, and cost optimization capabilities. It helps reduce operational overhead and improve efficiency across Cloud PC deployments. |
+| Who it's for | IT operations teams, cloud administrators, managed service providers, and organizations focused on cost optimization and automation. |
+| Resources | <!-- SAMPLE: Replace with real links --> [Sample Nerdio Resource](https://example.com) |
+| Contact | <!-- SAMPLE: Replace with real contact info --> **Sales:** sample@nerdio.com<br>**Support:** sample@nerdio.com<br>**Marketplace listing:** View listing |
+
+</details>
 
 
-### [Rimo3](https://www.rimo3.com/)  
 
-| **Overview** | Helps remove application readiness as a blocker to Windows 365 adoption by automating application discovery, testing, packaging, and deployment workflows. |
+<details>
+<summary>Rimo3</summary>
+
+| <img src="./media/partners/Rimo3.png" width="120" alt="Rimo3 logo" /> | [Rimo3](https://www.rimo3.com/) provides application discovery, testing, and remediation solutions to support migrations to Windows 365. It enables organizations to assess application readiness, identify compatibility issues, and accelerate deployment timelines. |
 |---|---|
-| **Solutions or products** | Rimo3 decodes the enterprise application estate into actionable data so migrations, testing, patching, and ongoing operations can be automated. It is positioned to accelerate Windows 365 and Microsoft Intune adoption by reducing manual application packaging and validation work. |
-| **Best for** | - Large enterprises with complex application estates where “applications are the blocker” for moving to Windows 365 and/or Microsoft Intune.<br>- Organizations modernizing from legacy tooling and need scalable validation before broad rollout. |
-| **Windows 365 integration** | Supports Windows 365 adoption by validating applications against customer builds before rollout and by automating packaging and deployment workflows that would otherwise delay Cloud PC migration and expansion. |
-| **Who it’s for** | Desktop engineering and application packaging teams, Microsoft Intune administrators, and modern workplace engineering teams in large enterprises with complex application estates. |
-| **Resources** | Rimo3 case study: https://www.rimo3.com/case-studies/how-a-global-insurance-enterprise-accelerated-windows-365-adoption-by-12-months-using-rimo3<br>YouTube video: https://www.youtube.com/watch?v=-B0EwNdq3nY |
-| **Contact** | **Sales:** https://www.rimo3.com/contact \| **Support:** (link) \| **Marketplace:** (link) |
+| Solutions or Products | Rimo3 automates the complete application lifecycle from migration to continuous operations — giving enterprises the data intelligence to validate, patch, and deploy Windows applications at scale without the manual overhead that stalls Windows 365 and Intune rollouts.|
+| Best for | - Organizations migrating complex application portfolios to Windows 365.<br>- IT teams focused on reducing application compatibility risks during deployment. |
+| Windows 365 integration | Rimo3 supports Windows 365 migrations by providing application assessment, automated testing, and remediation insights. It helps organizations ensure application compatibility and accelerate readiness for Cloud PC deployment. |
+| Who it's for | Application owners, EUC teams, IT administrators, and organizations managing large or complex application estates. |
+| Resources | <!-- SAMPLE: Replace with real links --> [Sample Rimo3 Resource](https://example.com) |
+| Contact | <!-- SAMPLE: Replace with real contact info --> **Sales:** sample@rimo3.com<br>**Support:** [learn more](https://learn.rimo3.com/knowledge-base)<br>**Marketplace listing:** [View listing](https://marketplace.microsoft.com/en-us/product/rimo3.rimo3cloudtransact_fr) |
+
+</details>
 
 
 ## Interested in being added to this list?  
