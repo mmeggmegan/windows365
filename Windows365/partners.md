@@ -125,7 +125,7 @@ Use this page to explore technology solutions that work alongside Windows 365 an
 <details>
 <summary>Rimo3</summary>
 
-| <img src="./media/partners/Rimo3.png" width="120" alt="Rimo3 logo" /> | [Rimo3](https://www.rimo3.com/) provides application discovery, testing, and remediation solutions to support migrations to Windows 365. It enables organizations to assess application readiness, identify compatibility issues, and accelerate deployment timelines. |
+| <img src="./media/partners/Rimo3 Logo Purple Trans SVG.svg" width="120" alt="Rimo3 logo" /> | [Rimo3](https://www.rimo3.com/) provides application discovery, testing, and remediation solutions to support migrations to Windows 365. It enables organizations to assess application readiness, identify compatibility issues, and accelerate deployment timelines. |
 |---|---|
 | Solutions or Products | Rimo3 automates the complete application lifecycle from migration to continuous operations — giving enterprises the data intelligence to validate, patch, and deploy Windows applications at scale without the manual overhead that stalls Windows 365 and Intune rollouts.|
 | Best for | - Organizations migrating complex application portfolios to Windows 365.<br>- IT teams focused on reducing application compatibility risks during deployment. |
