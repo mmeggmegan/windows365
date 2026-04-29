@@ -90,37 +90,6 @@ Use this page to explore technology solutions that work alongside Windows 365 an
 
 
 <details>
-<summary>IGEL</summary>
-
-| <img src="./media/partners/IGEL.png" width="120" alt="IGEL logo" /> | [IGEL](https://www.igel.com/) provides a secure endpoint operating system and device management platform optimized for cloud workspaces, including Windows 365. It enables organizations to deliver consistent, secure access to Cloud PCs across a wide range of endpoint devices while simplifying endpoint management and reducing total cost of ownership. |
-|---|---|
-| Solutions or Products | **IGEL OS** – A secure, lightweight endpoint operating system designed for cloud workspaces, enabling secure access to Windows 365 Cloud PCs from a wide range of devices.<br><br>**IGEL Universal Management Suite (UMS)** – Provides centralized endpoint management, configuration, and control across distributed environments.<br><br>**IGEL Cloud Gateway** – Enables secure remote access and management of endpoints outside the corporate network. |
-| Best for | - Organizations seeking to modernize endpoint strategy for Windows 365 and other cloud workspaces.<br>- Enterprises looking to reduce hardware costs by repurposing existing devices and extending endpoint lifecycle. |
-| Windows 365 integration | IGEL supports secure and optimized access to Windows 365 Cloud PCs by providing a purpose-built endpoint OS and centralized management platform. It enables organizations to standardize endpoint experiences, improve security posture, and streamline device management for Cloud PC deployments. |
-| Who it's for | End-user computing teams, IT administrators, security teams, and organizations managing distributed or hybrid workforces using Windows 365. |
-| Resources | <!-- SAMPLE: Replace with real links --> [Sample IGEL Resource](https://example.com) |
-| Contact | <!-- SAMPLE: Replace with real contact info --> **Sales:** sample@igel.com<br>**Support:** sample@igel.com<br>**Marketplace listing:** View listing |
-
-</details>
-
-
-<details>
-<summary>Nerdio</summary>
-
-| <img src="./media/partners/Nerdio.png" width="120" alt="Nerdio logo" /> | [Nerdio](https://getnerdio.com/) delivers automation, cost optimization, and management solutions for Windows 365 and Azure Virtual Desktop. Its platform helps organizations simplify deployment, streamline ongoing management, and optimize cloud resource usage. |
-|---|---|
-| Solutions or Products | **Nerdio Manager for Enterprise** – Provides centralized management, automation, and optimization for Windows 365 and AVD environments.<br><br>**Nerdio Manager for MSP** – Enables managed service providers to deploy, manage, and optimize multiple customer environments at scale.<br><br>**Cost Optimization Engine** – Delivers insights and automation to reduce Azure and Cloud PC-related costs. |
-| Best for | - Organizations looking to automate and optimize Windows 365 environments.<br>- Managed service providers delivering Cloud PC services across multiple tenants. |
-| Windows 365 integration | Nerdio integrates with Windows 365 by providing automation, policy-based management, and cost optimization capabilities. It helps reduce operational overhead and improve efficiency across Cloud PC deployments. |
-| Who it's for | IT operations teams, cloud administrators, managed service providers, and organizations focused on cost optimization and automation. |
-| Resources | <!-- SAMPLE: Replace with real links --> [Sample Nerdio Resource](https://example.com) |
-| Contact | <!-- SAMPLE: Replace with real contact info --> **Sales:** sample@nerdio.com<br>**Support:** sample@nerdio.com<br>**Marketplace listing:** View listing |
-
-</details>
-
-
-
-<details>
 <summary>Rimo3</summary>
 
 | <img src="./media/partners/Rimo3 Logo Purple Trans SVG.svg" width="120" alt="Rimo3 logo" /> | [Rimo3](https://www.rimo3.com/) provides application discovery, testing, and remediation solutions to support migrations to Windows 365. It enables organizations to assess application readiness, identify compatibility issues, and accelerate deployment timelines. |
