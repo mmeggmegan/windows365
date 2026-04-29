@@ -73,6 +73,21 @@ Use this page to explore technology solutions that work alongside Windows 365 an
 
 </details>
 
+<details>
+<summary>Hydra by Login VSI</summary>
+
+| <img src="./media/partners/Hydra Lockup_Midnight Oversight.png" width="120" alt="LoginVSI logo" /> | [Hydra by Login VSI](https://www.loginvsi.com/) provides performance validation and load testing solutions for Windows 365 environments. It enables organizations to simulate real-world user workloads, validate scalability, and ensure a high-quality end-user experience before deploying Cloud PCs in production. |
+|---|---|
+| Solutions or Products | **Login Enterprise** – A load testing platform that simulates user activity at scale to measure performance and identify bottlenecks in Windows 365 environments.<br><br>**Login PI** – Provides continuous performance monitoring and proactive issue detection to maintain a consistent user experience over time. |
+| Best for | - Organizations preparing for large-scale Windows 365 deployments or migrations.<br>- IT teams validating performance and user experience prior to production rollout. |
+| Windows 365 integration | LoginVSI integrates with Windows 365 by simulating user sessions and workloads to validate performance and scalability. It helps organizations identify constraints, optimize configurations, and ensure readiness for production deployments. |
+| Who it's for | IT administrators, EUC teams, performance engineers, and organizations responsible for deploying and maintaining Windows 365 environments. |
+| Resources | <!-- SAMPLE: Replace with real links --> [Sample LoginVSI Resource](https://example.com) |
+| Contact | <!-- SAMPLE: Replace with real contact info --> **Sales:** sample@loginvsi.com<br>**Support:** sample@loginvsi.com<br>**Marketplace listing:** [View listing](https://marketplace.microsoft.com/en-us/product/itprocloudgmbh1628775137215.hydra-pay-c1?tab=Overview) |
+
+</details>
+
+
 
 <details>
 <summary>IGEL</summary>
@@ -87,23 +102,6 @@ Use this page to explore technology solutions that work alongside Windows 365 an
 | Contact | <!-- SAMPLE: Replace with real contact info --> **Sales:** sample@igel.com<br>**Support:** sample@igel.com<br>**Marketplace listing:** View listing |
 
 </details>
-
-
-
-<details>
-<summary>Hydra by Login VSI</summary>
-
-| <img src="./media/partners/LoginVSI.png" width="120" alt="LoginVSI logo" /> | [Hydra by Login VSI](https://www.loginvsi.com/) provides performance validation and load testing solutions for Windows 365 environments. It enables organizations to simulate real-world user workloads, validate scalability, and ensure a high-quality end-user experience before deploying Cloud PCs in production. |
-|---|---|
-| Solutions or Products | **Login Enterprise** – A load testing platform that simulates user activity at scale to measure performance and identify bottlenecks in Windows 365 environments.<br><br>**Login PI** – Provides continuous performance monitoring and proactive issue detection to maintain a consistent user experience over time. |
-| Best for | - Organizations preparing for large-scale Windows 365 deployments or migrations.<br>- IT teams validating performance and user experience prior to production rollout. |
-| Windows 365 integration | LoginVSI integrates with Windows 365 by simulating user sessions and workloads to validate performance and scalability. It helps organizations identify constraints, optimize configurations, and ensure readiness for production deployments. |
-| Who it's for | IT administrators, EUC teams, performance engineers, and organizations responsible for deploying and maintaining Windows 365 environments. |
-| Resources | <!-- SAMPLE: Replace with real links --> [Sample LoginVSI Resource](https://example.com) |
-| Contact | <!-- SAMPLE: Replace with real contact info --> **Sales:** sample@loginvsi.com<br>**Support:** sample@loginvsi.com<br>**Marketplace listing:** View listing |
-
-</details>
-
 
 
 <details>
