@@ -39,7 +39,25 @@ What this page does not include: This page does not list system integrators, dep
 
 Use this page to explore technology solutions that work alongside Windows 365 and identify options that fit your deployment needs. Partners are listed alphabetically. 
 
+<details>
+<summary>Citrix</summary>
 
+</details>
+
+<details>
+<summary>ControlUp</summary>
+
+
+| **Overview** | [ControlUp](https://www.controlup.com) helps information technology teams identify and fix end-user experience and performance issues across Windows 365 Cloud PCs (and can also support Azure Virtual Desktop) by providing real-time visibility and troubleshooting across the Cloud PC, endpoint device, and connection path. |
+|---|---|
+| **Solutions or products** | ControlUp provides digital employee experience monitoring, troubleshooting, automation, and remediation for Windows 365 (and can also support Azure Virtual Desktop), including Windows 365-specific monitoring and telemetry to help information technology teams proactively detect and resolve issues and improve the end-user experience. |
+| **Best for** | - Operating Windows 365 at scale and need proactive monitoring, troubleshooting, and automated remediation to reduce support burden.<br>- Need visibility into where experience issues originate (Cloud PC vs. endpoint device vs. connection) to speed root-cause analysis. |
+| **Windows 365 integration** | Adds deeper operational visibility, experience monitoring, and remediation and automation beyond built-in administration experiences to help teams run Cloud PCs more reliably. |
+| **Who it’s for** | End user computing and virtual desktop administrators, information technology operations and service desk teams, and digital workplace owners. |
+| **Resources** | ControlUp press release: https://www.controlup.com/press/controlup-enhances-support-for-windows-365/<br>YouTube video: https://www.youtube.com/watch?v=7IK288BMapY |
+| **Contact** | **Sales:** Microsoft@Controlup.com<br> **Support:** [Controlup.com/Microsoft](https://www.controlup.com/Mircosoft)<br> **Marketplace:** [ControlUp ONE](https://marketplace.microsoft.com/en-us/product/controluptechnologies1659551284318.controlup_dex?OCID=AIDcmmm9t2wfa3_SEM__k_CjwKCAjw-dfOBhAjEiwAq0RwIwdKRx_VE6HNfYnO8G1LywMUQb1Zgd9OZ70hFVEAStcEQZGiZOoEYhoC10oQAvD_BwE_k_&tab=Overview) |
+
+</details>
 
 
 
@@ -59,17 +77,16 @@ Use this page to explore technology solutions that work alongside Windows 365 an
 
 
 <details>
-<summary>ControlUp</summary>
+<summary>IGEL</summary>
 
-
-| **Overview** | [ControlUp](https://www.controlup.com) helps information technology teams identify and fix end-user experience and performance issues across Windows 365 Cloud PCs (and can also support Azure Virtual Desktop) by providing real-time visibility and troubleshooting across the Cloud PC, endpoint device, and connection path. |
+| <img src="./media/partners/IGEL.png" width="120" alt="IGEL logo" /> | [IGEL](https://www.igel.com/) provides a secure endpoint operating system and device management platform optimized for cloud workspaces, including Windows 365. It enables organizations to deliver consistent, secure access to Cloud PCs across a wide range of endpoint devices while simplifying endpoint management and reducing total cost of ownership. |
 |---|---|
-| **Solutions or products** | ControlUp provides digital employee experience monitoring, troubleshooting, automation, and remediation for Windows 365 (and can also support Azure Virtual Desktop), including Windows 365-specific monitoring and telemetry to help information technology teams proactively detect and resolve issues and improve the end-user experience. |
-| **Best for** | - Operating Windows 365 at scale and need proactive monitoring, troubleshooting, and automated remediation to reduce support burden.<br>- Need visibility into where experience issues originate (Cloud PC vs. endpoint device vs. connection) to speed root-cause analysis. |
-| **Windows 365 integration** | Adds deeper operational visibility, experience monitoring, and remediation and automation beyond built-in administration experiences to help teams run Cloud PCs more reliably. |
-| **Who it’s for** | End user computing and virtual desktop administrators, information technology operations and service desk teams, and digital workplace owners. |
-| **Resources** | ControlUp press release: https://www.controlup.com/press/controlup-enhances-support-for-windows-365/<br>YouTube video: https://www.youtube.com/watch?v=7IK288BMapY |
-| **Contact** | **Sales:** Microsoft@Controlup.com<br> **Support:** [Controlup.com/Microsoft](https://www.controlup.com/Mircosoft)<br> **Marketplace:** [ControlUp ONE](https://marketplace.microsoft.com/en-us/product/controluptechnologies1659551284318.controlup_dex?OCID=AIDcmmm9t2wfa3_SEM__k_CjwKCAjw-dfOBhAjEiwAq0RwIwdKRx_VE6HNfYnO8G1LywMUQb1Zgd9OZ70hFVEAStcEQZGiZOoEYhoC10oQAvD_BwE_k_&tab=Overview) |
+| Solutions or Products | **IGEL OS** – A secure, lightweight endpoint operating system designed for cloud workspaces, enabling secure access to Windows 365 Cloud PCs from a wide range of devices.<br><br>**IGEL Universal Management Suite (UMS)** – Provides centralized endpoint management, configuration, and control across distributed environments.<br><br>**IGEL Cloud Gateway** – Enables secure remote access and management of endpoints outside the corporate network. |
+| Best for | - Organizations seeking to modernize endpoint strategy for Windows 365 and other cloud workspaces.<br>- Enterprises looking to reduce hardware costs by repurposing existing devices and extending endpoint lifecycle. |
+| Windows 365 integration | IGEL supports secure and optimized access to Windows 365 Cloud PCs by providing a purpose-built endpoint OS and centralized management platform. It enables organizations to standardize endpoint experiences, improve security posture, and streamline device management for Cloud PC deployments. |
+| Who it's for | End-user computing teams, IT administrators, security teams, and organizations managing distributed or hybrid workforces using Windows 365. |
+| Resources | <!-- SAMPLE: Replace with real links --> [Sample IGEL Resource](https://example.com) |
+| Contact | <!-- SAMPLE: Replace with real contact info --> **Sales:** sample@igel.com<br>**Support:** sample@igel.com<br>**Marketplace listing:** View listing |
 
 </details>
 
@@ -87,7 +104,34 @@ Use this page to explore technology solutions that work alongside Windows 365 an
 
 </details>
 
+<details>
+<summary>Nerdio</summary>
 
+| <img src="./media/partners/Nerdio.png" width="120" alt="Nerdio logo" /> | [Nerdio](https://getnerdio.com/) delivers automation, cost optimization, and management solutions for Windows 365 and Azure Virtual Desktop. Its platform helps organizations simplify deployment, streamline ongoing management, and optimize cloud resource usage. |
+|---|---|
+| Solutions or Products | **Nerdio Manager for Enterprise** – Provides centralized management, automation, and optimization for Windows 365 and AVD environments.<br><br>**Nerdio Manager for MSP** – Enables managed service providers to deploy, manage, and optimize multiple customer environments at scale.<br><br>**Cost Optimization Engine** – Delivers insights and automation to reduce Azure and Cloud PC-related costs. |
+| Best for | - Organizations looking to automate and optimize Windows 365 environments.<br>- Managed service providers delivering Cloud PC services across multiple tenants. |
+| Windows 365 integration | Nerdio integrates with Windows 365 by providing automation, policy-based management, and cost optimization capabilities. It helps reduce operational overhead and improve efficiency across Cloud PC deployments. |
+| Who it's for | IT operations teams, cloud administrators, managed service providers, and organizations focused on cost optimization and automation. |
+| Resources | <!-- SAMPLE: Replace with real links --> [Sample Nerdio Resource](https://example.com) |
+| Contact | <!-- SAMPLE: Replace with real contact info --> **Sales:** sample@nerdio.com<br>**Support:** sample@nerdio.com<br>**Marketplace listing:** View listing |
+
+</details>
+
+
+<details>
+<summary>Omnissa</summary>
+
+| <img src="./media/partners/Omnissa.png" width="120" alt="Omnissa logo" /> | [Omnissa](https://www.omnissa.com/) enables organizations using Omnissa Horizon to provide access to Windows 365 Cloud PCs through the Horizon experience. Its solution helps standardize connection experiences and protocol choice for customers operating Horizon alongside Windows 365. |
+|---|---|
+| Solutions or Products | **Omnissa Horizon** – Integrates with Windows 365 Enterprise to allow users to access Cloud PCs through the Horizon experience, including connectivity through the Omnissa Blast protocol and gateway, while Cloud PC provisioning and management remain handled through Microsoft Intune. |
+| Best for | - Organizations already using Horizon that want to provide Windows 365 Cloud PCs through the Horizon experience and Blast protocol.<br>- Hybrid environments operating multiple virtualization approaches and looking for a consistent access experience. |
+| Windows 365 integration | Omnissa provides an alternate connection experience and protocol layer on top of Windows 365 Cloud PCs through Horizon, while Microsoft continues to handle Cloud PC provisioning and management through Intune. |
+| Who it's for | End-user computing and virtual desktop teams, and IT administrators operating Horizon environments alongside Windows 365. |
+| Resources | [Omnissa blog: Announcing general availability of Omnissa Horizon with Windows 365](https://www.omnissa.com/insights/blog/announcing-general-availability-omnissa-horizon-with-windows-365/)<br>[YouTube video](https://www.youtube.com/watch?v=ZBLPlrgcK7g) |
+| Contact | **Sales:** Omnissa sales contact page or general inquiry<br>**Support:** [Omnissa Support](https://www.omnissa.com/support/)<br>**Marketplace listing:** View listing |
+
+</details>
 
 <details>
 <summary>Rimo3</summary>
