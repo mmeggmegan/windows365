@@ -35,14 +35,10 @@ Windows 365 is a cloud-native Windows platform that delivers Cloud PCs through t
 
 The partners listed on this page are independent software vendors (ISVs) and hardware vendors whose products have documented compatibility with Windows 365.
 
-What this page does not include: This page does not list system integrators, deployment partners, managed service providers (MSPs), or resellers. To find a partner who can help you plan, deploy, or manage a Windows 365 environment, visit the Microsoft Partner Finder.
-
 Use this page to explore technology solutions that work alongside Windows 365 and identify options that fit your deployment needs. Partners are listed alphabetically. 
 
-<details>
-<summary>Citrix</summary>
+What this page does not include: This page does not list system integrators, deployment partners, managed service providers (MSPs), or resellers. To find a partner who can help you plan, deploy, or manage a Windows 365 environment, visit the Microsoft Partner Finder.
 
-</details>
 
 <details>
 <summary>ControlUp</summary>
@@ -149,7 +145,7 @@ Use this page to explore technology solutions that work alongside Windows 365 an
 
 
 ## Interested in being added to this list?  
-Reach out to us at WindowsCloudHello@Microsoft.com if you’d like to be included.
+Reach out to us at WindowsCloudHello@Microsoft.com if you’d like to be considered for inclussion.
 
 ## Next steps
 
