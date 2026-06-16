@@ -75,7 +75,7 @@ What this page does not include: This page does not list system integrators, dep
 <details>
 <summary>IGEL</summary>
 
-| https://github.com/mmeggmegan/windows365/blob/public/Windows365/media/partners/IGEL_logo_blk%20(1).png /> | [IGEL](https://www.igel.com/) provides a secure endpoint operating system and device management platform optimized for cloud workspaces, including Windows 365. It enables organizations to deliver consistent, secure access to Cloud PCs across a wide range of endpoint devices while simplifying endpoint management and reducing total cost of ownership. |
+| <img src="./Windows365/media/partners/IGEL_logo_blk (1).png" /> | [IGEL](https://www.igel.com/) provides a secure endpoint operating system and device management platform optimized for cloud workspaces, including Windows 365. It enables organizations to deliver consistent, secure access to Cloud PCs across a wide range of endpoint devices while simplifying endpoint management and reducing total cost of ownership. |
 |---|---|
 | Solutions or Products | **IGEL OS** – A secure, lightweight endpoint operating system designed for cloud workspaces, enabling secure access to Windows 365 Cloud PCs from a wide range of devices.<br><br>**IGEL Universal Management Suite (UMS)** – Provides centralized endpoint management, configuration, and control across distributed environments.<br><br>**IGEL Cloud Gateway** – Enables secure remote access and management of endpoints outside the corporate network. |
 | Best for | - Organizations seeking to modernize endpoint strategy for Windows 365 and other cloud workspaces.<br>- Enterprises looking to reduce hardware costs by repurposing existing devices and extending endpoint lifecycle. |
