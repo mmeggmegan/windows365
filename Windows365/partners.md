@@ -43,8 +43,7 @@ What this page does not include: This page does not list system integrators, dep
 <details>
 <summary>Citrix</summary>
 
-| <img src="./media/partners/______________________________|
-| **Overview** | [Citrix](https://www.citrix.com/global-partners/microsoft/windows-365.html) Helps organizations deliver Windows 365 Cloud PCs through Citrix Workspace using Citrix HDX, providing an alternate connection experience and additional enterprise controls. |
+| <img src="./media/partners/citrix.png" width="120" alt="Citrix logo" /> | [Citrix](https://www.citrix.com/global-partners/microsoft/windows-365.html) Helps organizations deliver Windows 365 Cloud PCs through Citrix Workspace using Citrix HDX, providing an alternate connection experience and additional enterprise controls. |
 |---|---|
 | **Solutions or products** | Citrix HDX Plus for Windows 365 enables access to Windows 365 Cloud PCs via Citrix Workspace using Citrix HDX, while Windows 365 provisioning and management remain handled through Microsoft Intune. |
 | **Best for** | - Organizations already standardized on Citrix Workspace that want to provide Windows 365 Cloud PCs through the same client experience.<br>- Organizations that want to access Windows 365 Cloud PCs through Citrix Workspace using Citrix HDX, using supported Windows 365 partner integration scenarios.<br>- Organizations using Windows 365 Cloud PCs that want consistent access patterns through Citrix, especially when they already operate Citrix for other resources. |
