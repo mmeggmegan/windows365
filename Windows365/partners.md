@@ -103,14 +103,14 @@ What this page does not include: This page does not list system integrators, dep
 <details>
 <summary>Hydra by Login VSI</summary>
 
-| <img src="./media/partners/Hydra Lockup_Midnight Oversight.png" width="120" alt="LoginVSI logo" /> | [Hydra by Login VSI](https://www.loginvsi.com/) provides performance validation and load testing solutions for Windows 365 environments. It enables organizations to simulate real-world user workloads, validate scalability, and ensure a high-quality end-user experience before deploying Cloud PCs in production. |
+| <img src="./media/partners/Hydra Lockup_Midnight Oversight.png" width="120" alt="LoginVSI logo" /> | [Hydra by Login VSI](https://www.loginvsi.com/) is the operational control plane for Windows 365, giving enterprise IT teams and MSPs the provisioning speed, cost control, and lifecycle management that native capabilities alone don't deliver using the operational patterns they already know from managing VDI. Built by Login VSI, with 15+ years in enterprise EUC environments worldwide.. |
 |---|---|
-| Solutions or Products | **Login Enterprise** – A load testing platform that simulates user activity at scale to measure performance and identify bottlenecks in Windows 365 environments.<br><br>**Login PI** – Provides continuous performance monitoring and proactive issue detection to maintain a consistent user experience over time. |
-| Best for | - Organizations preparing for large-scale Windows 365 deployments or migrations.<br>- IT teams validating performance and user experience prior to production rollout. |
-| Windows 365 integration | LoginVSI integrates with Windows 365 by simulating user sessions and workloads to validate performance and scalability. It helps organizations identify constraints, optimize configurations, and ensure readiness for production deployments. |
-| Who it's for | IT administrators, EUC teams, performance engineers, and organizations responsible for deploying and maintaining Windows 365 environments. |
-| Resources | <!-- SAMPLE: Replace with real links --> [Sample LoginVSI Resource](https://example.com) |
-| Contact | <!-- SAMPLE: Replace with real contact info --> **Sales:** sample@loginvsi.com<br>**Support:** sample@loginvsi.com<br>**Marketplace listing:** [View listing](https://marketplace.microsoft.com/en-us/product/itprocloudgmbh1628775137215.hydra-pay-c1?tab=Overview) |
+| Solutions or Products | Hydra gives enterprise IT teams and MSPs full operational control over Windows 365, including: rapid Cloud PC provisioning (hours to minutes), cost and license optimization based on actual usage data, unified lifecycle and image management, and agent-based real-time session visibility all from a single control plane with built-in multi-tenancy and enterprise-grade RBAC. |
+| Best for | - Enterprise IT and EUC teams running Windows 365 at scale looking to reduce operational overhead, eliminate unnecessary Cloud PC spend, and manage their entire environment from a single, unified console.<br>- Managed service providers that need multi-tenant Cloud PC management with strict tenant isolation and RBAC at no extra cost. |
+| Windows 365 integration | Hydra centralizes Windows 365 operations across the full Cloud PC lifecycle by connecting Intune, Entra, M365, and Azure Image Gallery into a single console built on the familiar workflows VDI administrators already know. Teams handle provisioning, license right-sizing, image management, and live session diagnostics without portal hopping, dramatically reducing time spent on daily operations and making cloud modernization seamless, with no retraining required. |
+| Who it's for | Enterprise EUC and virtual desktop administrators, IT operations teams managing Windows 365 at scale, and managed service providers running multi-tenant Cloud PC environments. |
+| Resources | [Hydra for AVD and Windows 365 Management](https://www.loginvsi.com/platform/hydra/)|
+| Contact |  **Sales:** https://www.loginvsi.com/platform/hydra/#get-demo<br> **Support:** https://www.loginvsi.com/contact/<br>**Marketplace listing:** [View listing](https://marketplace.microsoft.com/en-us/product/azure-applications/itprocloudgmbh1628775137215.hydra-deploy-d1?tab=overview?utm_campaign=13669533-25Q2%20-%20Hydra%20for%20AVD%20Launch) |
 
 </details>
 
