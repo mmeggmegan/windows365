@@ -117,14 +117,14 @@ What this page does not include: This page does not list system integrators, dep
 <details>
 <summary>Nerdio</summary>
 
-| <img src="./media/partners/Nerdio.png" width="120" alt="Nerdio logo" /> | [Nerdio](https://getnerdio.com/) delivers automation, cost optimization, and management solutions for Windows 365 and Azure Virtual Desktop. Its platform helps organizations simplify deployment, streamline ongoing management, and optimize cloud resource usage. |
+| <img src="./media/partners/nerdio.png" width="120" alt="Nerdio logo" /> | [Nerdio](https://getnerdio.com/) delivers automation, cost optimization, and management solutions for Windows 365 and Azure Virtual Desktop. Its platform helps organizations simplify deployment, streamline ongoing management, and optimize cloud resource usage. |
 |---|---|
 | Solutions or Products | **Nerdio Manager for Enterprise** – Provides centralized management, automation, and optimization for Windows 365 and AVD environments.<br><br>**Nerdio Manager for MSP** – Enables managed service providers to deploy, manage, and optimize multiple customer environments at scale.<br><br>**Cost Optimization Engine** – Delivers insights and automation to reduce Azure and Cloud PC-related costs. |
 | Best for | - Organizations looking to automate and optimize Windows 365 environments.<br>- Managed service providers delivering Cloud PC services across multiple tenants. |
 | Windows 365 integration | Nerdio integrates with Windows 365 by providing automation, policy-based management, and cost optimization capabilities. It helps reduce operational overhead and improve efficiency across Cloud PC deployments. |
 | Who it's for | IT operations teams, cloud administrators, managed service providers, and organizations focused on cost optimization and automation. |
-| Resources | <!-- SAMPLE: Replace with real links --> [Sample Nerdio Resource](https://example.com) |
-| Contact | <!-- SAMPLE: Replace with real contact info --> **Sales:** sample@nerdio.com<br>**Support:** sample@nerdio.com<br>**Marketplace listing:** View listing |
+| Resources | -[Microsoft partner case study](https://partner.microsoft.com/en-us/case-studies/nerdio) <br> -[Nerdio customer story](https://getnerdio.com/customer-story/nerdio-manager-for-enterprise-case-study-3cloud/) |
+| Contact | **Sales:** [sample@nerdio.com](https://getnerdio.com/contact-us/ ) |
 
 </details>
 
