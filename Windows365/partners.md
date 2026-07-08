@@ -43,14 +43,14 @@ What this page does not include: This page does not list system integrators, dep
 <details>
 <summary>Citrix</summary>
 
-| <img src="./media/partners/citrix.png" width="120" alt="Citrix logo" /> | [Citrix](https://www.citrix.com/global-partners/microsoft/windows-365.html) Helps organizations deliver Windows 365 Cloud PCs through Citrix Workspace using Citrix HDX, providing an alternate connection experience and additional enterprise controls. |
+| <img src="./media/partners/citrix.png" width="120" alt="Citrix logo" /> | [Citrix](https://www.citrix.com/global-partners/microsoft/windows-365.html) delivers Windows 365 Cloud PCs through Citrix DaaS using the cutting-edge Citrix HDX connection technology, a set of remoting and optimization capabilities that adapts to network conditions and improves audio, video, and real-time communications (for example, Microsoft Teams) so sessions stay responsive on challenging networks. Windows 365 provisions the Cloud PCs and manages their lifecycle. Citrix adds the delivery layer and session policies, with optional configuration and tuning where deployed.  |
 |---|---|
-| **Solutions or products** | Citrix HDX Plus for Windows 365 enables access to Windows 365 Cloud PCs via Citrix Workspace using Citrix HDX, while Windows 365 provisioning and management remain handled through Microsoft Intune. |
-| **Best for** | - Organizations already standardized on Citrix Workspace that want to provide Windows 365 Cloud PCs through the same client experience.<br>- Organizations that want to access Windows 365 Cloud PCs through Citrix Workspace using Citrix HDX, using supported Windows 365 partner integration scenarios.<br>- Organizations using Windows 365 Cloud PCs that want consistent access patterns through Citrix, especially when they already operate Citrix for other resources. |
-| **Windows 365 integration** | Provides a Citrix access and gateway layer and Citrix HDX connection protocol on top of Windows 365 Cloud PCs. |
-| **Who it’s for** | Citrix administrators, end user computing and virtual desktop teams, and IT admins operating Citrix environments alongside Windows 365. |
+| **Solutions or products** | Citrix DaaS integration for Windows 365 enables users to launch Windows 365 Cloud PCs from Citrix Workspace and connect using Citrix HDX. |
+| **Best for** | - Organizations already standardized on Citrix DaaS that want Windows 365 Cloud PCs delivered through the same user access point.<br>- Teams that want Citrix policies and optional tuning for Windows 365 sessions while keeping Cloud PC provisioning and lifecycle in Windows 365 and Intune. |
+| **Windows 365 integration** | Provides a Citrix access and delivery layer for Windows 365 Cloud PCs through Citrix DaaS, using Citrix HDX for session connectivity. |
+| **Who it’s for** | Citrix administrators, end user computing and virtual desktop teams, and IT admins operating Citrix DaaS alongside Windows 365 and Microsoft Intune. |
 | **Resources** | - [Windows 365 partner integration scenarios](https://learn.microsoft.com/en-us/windows-365/enterprise/partner-integration-scenarios)<br>- [Set up Citrix HDX Plus for Windows 365 Enterprise]( https://learn.microsoft.com/en-us/windows-365/enterprise/set-up-citrix) |
-| **Contact** | **Sales:** https://www.citrix.com/global-partners/microsoft/windows-365.html<br> **Support:** ---------<br> **Marketplace:** ---------- |
+| **Contact** | **Sales:** https://www.citrix.com/global-partners/microsoft/windows-365.html<br> |
 
 </details>
 
@@ -67,7 +67,7 @@ What this page does not include: This page does not list system integrators, dep
 | **Windows 365 integration** | Adds deeper operational visibility, experience monitoring, and remediation and automation beyond built-in administration experiences to help teams run Cloud PCs more reliably. |
 | **Who it’s for** | End user computing and virtual desktop administrators, information technology operations and service desk teams, and digital workplace owners. |
 | **Resources** | ControlUp press release: https://www.controlup.com/press/controlup-enhances-support-for-windows-365/<br>YouTube video: https://www.youtube.com/watch?v=7IK288BMapY |
-| **Contact** | **Sales:** Microsoft@Controlup.com<br> **Support:** [Controlup.com/Microsoft](https://www.controlup.com/Mircosoft)<br> **Marketplace:** [ControlUp ONE](https://marketplace.microsoft.com/en-us/product/controluptechnologies1659551284318.controlup_dex?OCID=AIDcmmm9t2wfa3_SEM__k_CjwKCAjw-dfOBhAjEiwAq0RwIwdKRx_VE6HNfYnO8G1LywMUQb1Zgd9OZ70hFVEAStcEQZGiZOoEYhoC10oQAvD_BwE_k_&tab=Overview) |
+| **Contact** | **Sales:** Microsoft@Controlup.com<br> **Support:** [Controlup.com/Microsoft](https://www.controlup.com/Microsoft)<br> **Marketplace:** [ControlUp ONE](https://marketplace.microsoft.com/en-us/product/controluptechnologies1659551284318.controlup_dex?OCID=AIDcmmm9t2wfa3_SEM__k_CjwKCAjw-dfOBhAjEiwAq0RwIwdKRx_VE6HNfYnO8G1LywMUQb1Zgd9OZ70hFVEAStcEQZGiZOoEYhoC10oQAvD_BwE_k_&tab=Overview) |
 
 </details>
 
@@ -83,7 +83,7 @@ What this page does not include: This page does not list system integrators, dep
 | Windows 365 integration | EfficientEther supports planning, migration, deployment, and ongoing management for Windows 365 environments. It provides Cloud PC visibility, setup and configuration support, intelligent analysis, operational actions, governance, automation, and TCO-based planning. It also supports migration scenarios from Azure Virtual Desktop and other legacy desktop environments, enabling full Cloud PC lifecycle delivery from build through ongoing management. |
 | Who it's for | End-user computing and virtual desktop administrators, IT operations and helpdesk teams, managed service providers, security and compliance stakeholders, and FinOps or cloud optimization teams. |
 | Resources | [Use Cases - EtherAssist](https://docs.etherassist.ai/)<br>[Windows 365 / Cloud PC Documentation](https://docs.etherinsights.ai/getting-started/cloud-pc)<br>[EtherInsights Documentation](https://docs.etherinsights.ai/)<br>[EtherAssist Documentation](https://docs.etherassist.ai/)<br>[EtherApps Forge Documentation](https://www.etherapps.ai) |
-| Contact | **Sales:** sales@efficientether.co.uk<br>**Support:** support@efficientether.co.uk<br>**Marketplace listing:** View listing |
+| Contact | **Sales:** sales@efficientether.co.uk<br>**Support:** support@efficientether.co.uk<br>**Marketplace listings:** [EtherInsights](https://marketplace.microsoft.com/en-us/product/efficientetherltd1689768231927.etherinsights_prod_per_user?tab=Overview), [EtherAssist](https://marketplace.microsoft.com/en-us/product/WA200008520?tab=Overview) |
 
 </details>
 
