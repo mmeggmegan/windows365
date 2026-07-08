@@ -132,7 +132,7 @@ What this page does not include: This page does not list system integrators, dep
 <details>
 <summary>Omnissa</summary>
 
-| <img src="./media/partners/Omnissa.png" width="120" alt="Omnissa logo" /> | [Omnissa](https://www.omnissa.com/) offers solutions that work alongside Windows 365, including Horizon for user connectivity and App Volumes for application lifecycle management. |
+| <img src="./media/partners/endusercomputing_logo.jpg" width="120" alt="Omnissa logo" /> | [Omnissa](https://www.omnissa.com/) offers solutions that work alongside Windows 365, including Horizon for user connectivity and App Volumes for application lifecycle management. |
 |---|---|
 | Solutions or products | **Omnissa Horizon** – Integrates with Windows 365 Enterprise to allow users to access Cloud PCs through the Horizon experience, including connectivity through the Omnissa Blast protocol and gateway, while Cloud PC provisioning and management remain handled through Microsoft Intune.<br><br> **Omnissa AppVolumes** - Provides application lifecycle management for Windows 365 environments by delivering and managing applications separately from the Cloud PC image, helping IT teams streamline application updates and reduce image management complexity. |
 | Best for | - Organizations already using Horizon that want to provide Windows 365 Cloud PCs through the Horizon experience and Blast protocol.<br>- Hybrid environments operating multiple virtualization approaches and looking for a consistent access experience.<br>- Organizations looking to simplify application management and reduce the number of Windows 365 images they need to maintain through app layering and centralized application delivery. |
