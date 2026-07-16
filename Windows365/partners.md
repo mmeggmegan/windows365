@@ -2,7 +2,7 @@
 # required metadata
 title: Windows 365 partners
 titleSuffix:
-description: Learn about the offerings that approved partners provide to Windows 365.
+description: Learn about the partners whose products have documented compatibility with Windows 365.
 keywords:
 author: mmeggmegan  
 ms.author: mmegg
