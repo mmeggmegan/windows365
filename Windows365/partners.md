@@ -156,6 +156,8 @@ What this page does not include: This page does not list system integrators, dep
 
 </details>
 
+## Additional Microsoft resources
+- [Microsoft App Assure](https://aka.ms/AppAssure) – Assistance for eligible customers experiencing application compatibility issues when adopting Windows 365 and other Microsoft technologies.
 
 ## Interested in being added to this list?  
 Reach out to us at WindowsCloudHello@Microsoft.com if you’d like to be considered for inclusion.
