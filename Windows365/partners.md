@@ -144,13 +144,13 @@ What this page does not include: This page does not list system integrators, dep
 </details>
 
 <details>
-<summary>Rimo3</summary>
+<summary>WorkspaceDNA</summary>
 
-| <img src="./media/partners/Rimo3 Logo Purple Trans SVG.svg" width="120" alt="Rimo3 logo" /> | [Rimo3](https://www.rimo3.com/) provides application discovery, testing, and remediation solutions to support migrations to Windows 365. It enables organizations to assess application readiness, identify compatibility issues, and accelerate deployment timelines.|
+| <img src="./media/partners/Rimo3 Logo Purple Trans SVG.svg" width="120" alt="Rimo3 logo" /> | [WorkspaceDNA](https://www.workspacedna.com/) provides application discovery, testing, and remediation solutions to support migrations to Windows 365. It enables organizations to assess application readiness, identify compatibility issues, and accelerate deployment timelines.|
 |---|---|
-| Solutions or products | Rimo3 automates the complete application lifecycle from migration to continuous operations — giving enterprises the data intelligence to validate, patch, and deploy Windows applications at scale without the manual overhead that stalls Windows 365 and Intune rollouts.|
+| Solutions or products | WorkspaceDNA automates the complete application lifecycle from migration to continuous operations — giving enterprises the data intelligence to validate, patch, and deploy Windows applications at scale without the manual overhead that stalls Windows 365 and Intune rollouts.|
 | Best for | - Organizations migrating complex application portfolios to Windows 365.<br>- IT teams focused on reducing application compatibility risks during deployment. |
-| Windows 365 integration | Rimo3 supports Windows 365 migrations by providing application assessment, automated testing, and remediation insights. It helps organizations ensure application compatibility and accelerate readiness for Cloud PC deployment. |
+| Windows 365 integration | WorkspaceDNA supports Windows 365 migrations by providing application assessment, automated testing, and remediation insights. It helps organizations ensure application compatibility and accelerate readiness for Cloud PC deployment. |
 | Who it's for | Application owners, EUC teams, IT administrators, and organizations managing large or complex application estates. |
 | Contact | **Support:** https://learn.rimo3.com/knowledge-base<br>**Marketplace listing:** [View listing](https://marketplace.microsoft.com/en-us/product/rimo3.rimo3cloudtransact) |
 
