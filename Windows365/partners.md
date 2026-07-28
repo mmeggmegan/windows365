@@ -37,7 +37,7 @@ The partners listed on this page are independent software vendors (ISVs) and har
 
 Use this page to explore technology solutions that work alongside Windows 365 and identify options that fit your deployment needs. Partners are listed alphabetically. 
 
-What this page does not include: This page does not list system integrators, deployment partners, managed service providers (MSPs), or resellers. To find a partner who can help you plan, deploy, or manage a Windows 365 environment, visit the Microsoft Partner Finder.
+What this page does not include: This page does not include system integrators, deployment partners, managed service providers (MSPs), or resellers. To find a partner who can help you plan, deploy, or manage a Windows 365 environment, visit the Microsoft Partner Finder.
 
 
 <details>
@@ -60,12 +60,12 @@ What this page does not include: This page does not list system integrators, dep
 <summary>ControlUp</summary>
 
 
-| **Overview** | [ControlUp](https://www.controlup.com) helps information technology teams identify and fix end-user experience and performance issues across Windows 365 Cloud PCs (and can also support Azure Virtual Desktop) by providing real-time visibility and troubleshooting across the Cloud PC, endpoint device, and connection path. |
+| **Overview** | [ControlUp](https://www.controlup.com) helps IT teams identify and fix end-user experience and performance issues across Windows 365 Cloud PCs (and can also support Azure Virtual Desktop) by providing real-time visibility and troubleshooting across the Cloud PC, endpoint device, and connection path. |
 |---|---|
-| **Solutions or products** | ControlUp provides digital employee experience monitoring, troubleshooting, automation, and remediation for Windows 365 (and can also support Azure Virtual Desktop), including Windows 365-specific monitoring and telemetry to help information technology teams proactively detect and resolve issues and improve the end-user experience. |
+| **Solutions or products** | ControlUp provides digital employee experience monitoring, troubleshooting, automation, and remediation for Windows 365 (and can also support Azure Virtual Desktop), including Windows 365-specific monitoring and telemetry to help IT teams proactively detect and resolve issues and improve the end-user experience. |
 | **Best for** | - Operating Windows 365 at scale and need proactive monitoring, troubleshooting, and automated remediation to reduce support burden.<br>- Need visibility into where experience issues originate (Cloud PC vs. endpoint device vs. connection) to speed root-cause analysis. |
 | **Windows 365 integration** | Adds deeper operational visibility, experience monitoring, and remediation and automation beyond built-in administration experiences to help teams run Cloud PCs more reliably. |
-| **Who it’s for** | EUC and virtual desktop administrators, information technology operations and service desk teams, and digital workplace owners. |
+| **Who it’s for** | EUC and virtual desktop administrators, IT operations and service desk teams, and digital workplace owners. |
 | **Resources** | ControlUp press release: https://www.controlup.com/press/controlup-enhances-support-for-windows-365/<br>YouTube video: https://www.youtube.com/watch?v=7IK288BMapY |
 | **Contact** | **Sales:** Microsoft@Controlup.com<br> **Support:** [Controlup.com/Microsoft](https://www.controlup.com/Microsoft)<br> **Marketplace:** [ControlUp ONE](https://marketplace.microsoft.com/en-us/product/controluptechnologies1659551284318.controlup_dex?OCID=AIDcmmm9t2wfa3_SEM__k_CjwKCAjw-dfOBhAjEiwAq0RwIwdKRx_VE6HNfYnO8G1LywMUQb1Zgd9OZ70hFVEAStcEQZGiZOoEYhoC10oQAvD_BwE_k_&tab=Overview) |
 
@@ -123,7 +123,7 @@ What this page does not include: This page does not list system integrators, dep
 | Best for | - Organizations looking to automate and optimize Windows 365 environments.<br>- MSPs delivering Cloud PC services across multiple tenants. |
 | Windows 365 integration | Nerdio integrates with Windows 365 by providing automation, policy-based management, and cost optimization capabilities. It helps reduce operational overhead and improve efficiency across Cloud PC deployments. |
 | Who it's for | IT teams, cloud administrators, MSPs, and organizations wanting to modernize and are focused on cost optimization and automation. |
-| Resources | -[Microsoft partner case study](https://partner.microsoft.com/en-us/case-studies/nerdio) <br> -[Nerdio customer story](https://getnerdio.com/customer-story/nerdio-manager-for-enterprise-case-study-3cloud/) |
+| Resources | - [Microsoft partner case study](https://partner.microsoft.com/en-us/case-studies/nerdio) <br> - [Nerdio customer story](https://getnerdio.com/customer-story/nerdio-manager-for-enterprise-case-study-3cloud/) |
 | Contact | **Sales:** https://getnerdio.com/contact-us/ |
 
 </details>
@@ -132,14 +132,14 @@ What this page does not include: This page does not list system integrators, dep
 <details>
 <summary>Omnissa</summary>
 
-| <img src="./media/partners/Omnissa.png" width="120" alt="Omnissa logo" /> | [Omnissa](https://www.omnissa.com/)Horizon integrates with Windows 365 to provide simplified hybrid cloud desktop and app support, enhanced employee experience, and reduced costs with modern application management.  |
+| <img src="./media/partners/Omnissa.png" width="120" alt="Omnissa logo" /> | [Omnissa](https://www.omnissa.com/) Horizon integrates with Windows 365 to provide simplified hybrid cloud desktop and app support, enhanced employee experience, and reduced costs with modern application management.  |
 |---|---|
 | Solutions or products | - Deploy Windows 365 alongside Horizon 8 and Horizon Cloud for on-premises and multi-cloud support.<br> - Improve user experience across all desktops with Blast Extreme protocol. <br> - Enable broad device choice and peripheral support with Horizon Client. <br> - Reduce app management costs and time using App Volumes with Apps on Demand. <br> -Maintain high security standards with remote experience, user, and endpoint policy controls. |
 | Best for | - Organizations using Windows 365 who want to take advantage of hybrid desktop and app delivery with Horizon and App Volumes.<br> - Organizations using Horizon who want to manage and deliver Windows 365 Cloud PCs through the Horizon console.<br>- Organizations using Horizon who want to use the familiar Horizon Client and Blast Extreme protocol to access desktops across Horizon and Windows 365. |
 | Windows 365 integration | Helps organizations offer their employees access to Windows 365 Cloud PCs from Horizon environments, with additional hybrid delivery, app management, and experience benefits. .|
 | Who it's for | End user computing and virtual desktop teams and IT admins operating Horizon environments alongside Windows 365. |
 | Resources | [Omnissa blog: Announcing general availability of Omnissa Horizon with Windows 365](https://www.omnissa.com/insights/blog/announcing-general-availability-omnissa-horizon-with-windows-365/)<br>[YouTube video](https://www.youtube.com/watch?v=ZBLPlrgcK7g) |
-| Contact | **Sales:** [Omnissa sales contact page or general inquiry](https://www.omnissa.com/contact-us/ )<br>**Support:** [Omnissa Support](https://www.omnissa.com/support/)<br>**Marketplace listing:** https://marketplace.microsoft.com/en-us/product/omnissallc.omnissa-solutions|
+| Contact | **Sales:** [Omnissa sales contact page or general inquiry](https://www.omnissa.com/contact-us/)<br>**Support:** [Omnissa Support](https://www.omnissa.com/support/)<br>**Marketplace listing:** https://marketplace.microsoft.com/en-us/product/omnissallc.omnissa-solutions|
 
 </details>
 
