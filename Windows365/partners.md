@@ -60,7 +60,7 @@ What this page does not include: This page does not include system integrators, 
 <summary>ControlUp</summary>
 
 
-| **Overview** | [ControlUp](https://www.controlup.com) helps IT teams identify and fix end-user experience and performance issues across Windows 365 Cloud PCs (and can also support Azure Virtual Desktop) by providing real-time visibility and troubleshooting across the Cloud PC, endpoint device, and connection path. |
+| <img src="./media/partners/CU_Logo [White].png" width="120" alt="ControlUp logo" /> | [ControlUp](https://www.controlup.com) helps IT teams identify and fix end-user experience and performance issues across Windows 365 Cloud PCs (and can also support Azure Virtual Desktop) by providing real-time visibility and troubleshooting across the Cloud PC, endpoint device, and connection path. |
 |---|---|
 | **Solutions or products** | ControlUp provides digital employee experience monitoring, troubleshooting, automation, and remediation for Windows 365 (and can also support Azure Virtual Desktop), including Windows 365-specific monitoring and telemetry to help IT teams proactively detect and resolve issues and improve the end-user experience. |
 | **Best for** | - Organizations operating Windows 365 at scale and need proactive monitoring, troubleshooting, and automated remediation to reduce support burden.<br>- Organizations needing visibility into where experience issues originate (Cloud PC vs. endpoint device vs. connection) to speed root-cause analysis. |
