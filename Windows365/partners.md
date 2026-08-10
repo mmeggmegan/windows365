@@ -43,7 +43,7 @@ What this page does not include: This page does not include system integrators, 
 <details>
 <summary>Citrix</summary>
 
-| <img src="./media/partners/citrix.png" width="120" alt="Citrix logo" /> | [Citrix](https://www.citrix.com/global-partners/microsoft/windows-365.html) delivers Windows 365 Cloud PCs through Citrix DaaS using the cutting-edge Citrix HDX connection technology, a set of remoting and optimization capabilities that adapts to network conditions and improves audio, video, and real-time communications (for example, Microsoft Teams) so sessions stay responsive on challenging networks. Windows 365 provisions the Cloud PCs and manages their lifecycle. Citrix adds the delivery layer and session policies, with optional configuration and tuning where deployed.  |
+| <img src="./media/partners/citrix.png" width="120" alt="Citrix logo" /> | [Citrix](https://www.citrix.com/global-partners/microsoft/windows-365.html) delivers Windows 365 Cloud PCs through Citrix DaaS using Citrix HDX connection technology, a set of remoting and optimization capabilities that adapts to network conditions and improves audio, video, and real-time communications. Windows 365 provisions the Cloud PCs and manages their lifecycle. Citrix adds the delivery layer and session policies, with optional configuration and tuning where deployed.  |
 |---|---|
 | **Solutions or products** | Citrix DaaS integration for Windows 365 enables users to launch Windows 365 Cloud PCs from Citrix Workspace and connect using Citrix HDX. |
 | **Best for** | - Organizations already standardized on Citrix DaaS that want Windows 365 Cloud PCs delivered through the same user access point.<br>- Teams that want Citrix policies and optional tuning for Windows 365 sessions while keeping Cloud PC provisioning and lifecycle in Windows 365 and Intune. |
@@ -60,7 +60,7 @@ What this page does not include: This page does not include system integrators, 
 <summary>ControlUp</summary>
 
 
-| <img src="./media/partners/CU_Logo [White].png" width="120" alt="ControlUp logo" /> | [ControlUp](https://www.controlup.com) helps IT teams identify and fix end-user experience and performance issues across Windows 365 Cloud PCs (and can also support Azure Virtual Desktop) by providing real-time visibility and troubleshooting across the Cloud PC, endpoint device, and connection path. |
+| <img src="./media/partners/CU_Logo%20%5BWhite%5D.png" width="120" alt="ControlUp logo" /> | [ControlUp](https://www.controlup.com) helps IT teams identify and fix end-user experience and performance issues across Windows 365 Cloud PCs (and can also support Azure Virtual Desktop) by providing real-time visibility and troubleshooting across the Cloud PC, endpoint device, and connection path. |
 |---|---|
 | **Solutions or products** | ControlUp provides digital employee experience monitoring, troubleshooting, automation, and remediation for Windows 365 (and can also support Azure Virtual Desktop), including Windows 365-specific monitoring and telemetry to help IT teams proactively detect and resolve issues and improve the end-user experience. |
 | **Best for** | - Organizations operating Windows 365 at scale and need proactive monitoring, troubleshooting, and automated remediation to reduce support burden.<br>- Organizations needing visibility into where experience issues originate (Cloud PC vs. endpoint device vs. connection) to speed root-cause analysis. |
