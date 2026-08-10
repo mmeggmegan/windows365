@@ -49,7 +49,7 @@ What this page does not include: This page does not include system integrators, 
 | **Best for** | - Organizations already standardized on Citrix DaaS that want Windows 365 Cloud PCs delivered through the same user access point.<br>- Teams that want Citrix policies and optional tuning for Windows 365 sessions while keeping Cloud PC provisioning and lifecycle in Windows 365 and Intune. |
 | **Windows 365 integration** | Provides a Citrix access and delivery layer for Windows 365 Cloud PCs through Citrix DaaS, using Citrix HDX for session connectivity. |
 | **Who it’s for** | Citrix administrators, end user computing (EUC) and virtual desktop teams, and IT admins operating Citrix DaaS alongside Windows 365 and Microsoft Intune. |
-| **Resources** | - [Windows 365 partner integration scenarios](https://learn.microsoft.com/en-us/windows-365/enterprise/partner-integration-scenarios)<br>- [Set up Citrix HDX Plus for Windows 365 Enterprise]( https://learn.microsoft.com/en-us/windows-365/enterprise/set-up-citrix) |
+| **Resources** | - [Windows 365 partner integration scenarios](https://learn.microsoft.com/en-us/windows-365/enterprise/partner-integration-scenarios)<br>- [Set up Citrix HDX Plus for Windows 365 Enterprise](https://learn.microsoft.com/en-us/windows-365/enterprise/set-up-citrix) |
 | **Contact** | **Sales:** https://www.citrix.com/global-partners/microsoft/windows-365.html<br> |
 
 </details>
@@ -63,7 +63,7 @@ What this page does not include: This page does not include system integrators, 
 | **Overview** | [ControlUp](https://www.controlup.com) helps IT teams identify and fix end-user experience and performance issues across Windows 365 Cloud PCs (and can also support Azure Virtual Desktop) by providing real-time visibility and troubleshooting across the Cloud PC, endpoint device, and connection path. |
 |---|---|
 | **Solutions or products** | ControlUp provides digital employee experience monitoring, troubleshooting, automation, and remediation for Windows 365 (and can also support Azure Virtual Desktop), including Windows 365-specific monitoring and telemetry to help IT teams proactively detect and resolve issues and improve the end-user experience. |
-| **Best for** | - Operating Windows 365 at scale and need proactive monitoring, troubleshooting, and automated remediation to reduce support burden.<br>- Need visibility into where experience issues originate (Cloud PC vs. endpoint device vs. connection) to speed root-cause analysis. |
+| **Best for** | - Organizations operating Windows 365 at scale and need proactive monitoring, troubleshooting, and automated remediation to reduce support burden.<br>- Organizations needing visibility into where experience issues originate (Cloud PC vs. endpoint device vs. connection) to speed root-cause analysis. |
 | **Windows 365 integration** | Adds deeper operational visibility, experience monitoring, and remediation and automation beyond built-in administration experiences to help teams run Cloud PCs more reliably. |
 | **Who it’s for** | EUC and virtual desktop administrators, IT operations and service desk teams, and digital workplace owners. |
 | **Resources** | ControlUp press release: https://www.controlup.com/press/controlup-enhances-support-for-windows-365/<br>YouTube video: https://www.youtube.com/watch?v=7IK288BMapY |
@@ -88,6 +88,20 @@ What this page does not include: This page does not include system integrators, 
 </details>
 
 <details>
+<summary>Hydra by Login VSI</summary>
+
+| <img src="./media/partners/Hydra Lockup_Midnight Oversight.png" width="120" alt="LoginVSI logo" /> | [Hydra by Login VSI](https://www.loginvsi.com/) is the operational control plane for Windows 365, giving enterprise IT teams and MSPs the provisioning speed, cost control, and lifecycle management that native capabilities alone don't deliver using the operational patterns they already know from managing VDI. Built by Login VSI, with 15+ years in enterprise EUC environments worldwide. |
+|---|---|
+| Solutions or products | Hydra gives enterprise IT teams and MSPs full operational control over Windows 365, including: rapid Cloud PC provisioning (hours to minutes), cost and license optimization based on actual usage data, unified lifecycle and image management, and agent-based real-time session visibility all from a single control plane with built-in multi-tenancy and enterprise-grade RBAC. |
+| Best for | - Enterprise IT and EUC teams running Windows 365 at scale looking to reduce operational overhead, eliminate unnecessary Cloud PC spend, and manage their entire environment from a single, unified console.<br>- MSPs that need multi-tenant Cloud PC management with strict tenant isolation and RBAC at no extra cost. |
+| Windows 365 integration | Hydra centralizes Windows 365 operations across the full Cloud PC lifecycle by connecting Intune, Entra, M365, and Azure Image Gallery into a single console built on the familiar workflows VDI administrators already know. Teams handle provisioning, license right-sizing, image management, and live session diagnostics without portal hopping, dramatically reducing time spent on daily operations and making cloud modernization seamless, with no retraining required. |
+| Who it's for | Enterprise EUC and virtual desktop administrators, IT teams managing Windows 365 at scale, and MSPs running multi-tenant Cloud PC environments. |
+| Resources | [Hydra for AVD and Windows 365 Management](https://www.loginvsi.com/platform/hydra/) |
+| Contact |  **Sales:** https://www.loginvsi.com/platform/hydra/#get-demo<br> **Support:** https://www.loginvsi.com/contact/<br>**Marketplace listing:** [View listing](https://marketplace.microsoft.com/en-us/product/azure-applications/itprocloudgmbh1628775137215.hydra-deploy-d1?tab=overview?utm_campaign=13669533-25Q2%20-%20Hydra%20for%20AVD%20Launch) |
+
+</details>
+
+<details>
 <summary>IGEL</summary>
 
 | <img src="./media/partners/IGEL_logo_yellow.png" width="120" alt="IGEL logo" /> | Securely access Windows 365 and Azure Virtual Desktop from any endpoint. [IGEL](https://www.igel.com/) helps organizations modernize endpoint experiences by enabling secure, high-performance access to Windows 365 Cloud PCs and Azure Virtual Desktop across a wide range of devices and provides a secure endpoint operating system and device management platform optimized for cloud workspaces, including Windows 365. It enables organizations to deliver consistent, secure access to Cloud PCs across a wide range of endpoint devices while simplifying endpoint management and reducing total cost of ownership. |
@@ -100,19 +114,6 @@ What this page does not include: This page does not include system integrators, 
 
 </details>
 
-<details>
-<summary>Hydra by Login VSI</summary>
-
-| <img src="./media/partners/Hydra Lockup_Midnight Oversight.png" width="120" alt="LoginVSI logo" /> | [Hydra by Login VSI](https://www.loginvsi.com/) is the operational control plane for Windows 365, giving enterprise IT teams and MSPs the provisioning speed, cost control, and lifecycle management that native capabilities alone don't deliver using the operational patterns they already know from managing VDI. Built by Login VSI, with 15+ years in enterprise EUC environments worldwide. |
-|---|---|
-| Solutions or products | Hydra gives enterprise IT teams and MSPs full operational control over Windows 365, including: rapid Cloud PC provisioning (hours to minutes), cost and license optimization based on actual usage data, unified lifecycle and image management, and agent-based real-time session visibility all from a single control plane with built-in multi-tenancy and enterprise-grade RBAC. |
-| Best for | - Enterprise IT and EUC teams running Windows 365 at scale looking to reduce operational overhead, eliminate unnecessary Cloud PC spend, and manage their entire environment from a single, unified console.<br>- MSPs that need multi-tenant Cloud PC management with strict tenant isolation and RBAC at no extra cost. |
-| Windows 365 integration | Hydra centralizes Windows 365 operations across the full Cloud PC lifecycle by connecting Intune, Entra, M365, and Azure Image Gallery into a single console built on the familiar workflows VDI administrators already know. Teams handle provisioning, license right-sizing, image management, and live session diagnostics without portal hopping, dramatically reducing time spent on daily operations and making cloud modernization seamless, with no retraining required. |
-| Who it's for | Enterprise EUC and virtual desktop administrators, IT  teams managing Windows 365 at scale, and MSPs running multi-tenant Cloud PC environments. |
-| Resources | [Hydra for AVD and Windows 365 Management](https://www.loginvsi.com/platform/hydra/)|
-| Contact |  **Sales:** https://www.loginvsi.com/platform/hydra/#get-demo<br> **Support:** https://www.loginvsi.com/contact/<br>**Marketplace listing:** [View listing](https://marketplace.microsoft.com/en-us/product/azure-applications/itprocloudgmbh1628775137215.hydra-deploy-d1?tab=overview?utm_campaign=13669533-25Q2%20-%20Hydra%20for%20AVD%20Launch) |
-
-</details>
 
 <details>
 <summary>Nerdio</summary>
@@ -134,21 +135,21 @@ What this page does not include: This page does not include system integrators, 
 
 | <img src="./media/partners/Omnissa.png" width="120" alt="Omnissa logo" /> | [Omnissa](https://www.omnissa.com/) Horizon integrates with Windows 365 to provide simplified hybrid cloud desktop and app support, enhanced employee experience, and reduced costs with modern application management.  |
 |---|---|
-| Solutions or products | - Deploy Windows 365 alongside Horizon 8 and Horizon Cloud for on-premises and multi-cloud support.<br> - Improve user experience across all desktops with Blast Extreme protocol. <br> - Enable broad device choice and peripheral support with Horizon Client. <br> - Reduce app management costs and time using App Volumes with Apps on Demand. <br> -Maintain high security standards with remote experience, user, and endpoint policy controls. |
-| Best for | - Organizations using Windows 365 who want to take advantage of hybrid desktop and app delivery with Horizon and App Volumes.<br> - Organizations using Horizon who want to manage and deliver Windows 365 Cloud PCs through the Horizon console.<br>- Organizations using Horizon who want to use the familiar Horizon Client and Blast Extreme protocol to access desktops across Horizon and Windows 365. |
-| Windows 365 integration | Helps organizations offer their employees access to Windows 365 Cloud PCs from Horizon environments, with additional hybrid delivery, app management, and experience benefits. .|
+| Solutions or products | - Deploy Windows 365 alongside Horizon 8 and Horizon Cloud for on-premises and multi-cloud support.<br> - Improve user experience across all desktops with Blast Extreme protocol. <br> - Enable broad device choice and peripheral support with Horizon Client. <br> - Reduce app management costs and time using App Volumes with Apps on Demand. <br> - Maintain high security standards with remote experience, user, and endpoint policy controls. |
+| Best for | - Organizations using Windows 365 that want to take advantage of hybrid desktop and app delivery with Horizon and App Volumes.<br> - Organizations using Horizon that want to manage and deliver Windows 365 Cloud PCs through the Horizon console.<br>- Organizations using Horizon who want to use the familiar Horizon Client and Blast Extreme protocol to access desktops across Horizon and Windows 365. |
+| Windows 365 integration | Helps organizations offer their employees access to Windows 365 Cloud PCs from Horizon environments, with additional hybrid delivery, app management, and experience benefits. |
 | Who it's for | End user computing and virtual desktop teams and IT admins operating Horizon environments alongside Windows 365. |
 | Resources | [Omnissa blog: Announcing general availability of Omnissa Horizon with Windows 365](https://www.omnissa.com/insights/blog/announcing-general-availability-omnissa-horizon-with-windows-365/)<br>[YouTube video](https://www.youtube.com/watch?v=ZBLPlrgcK7g) |
-| Contact | **Sales:** [Omnissa sales contact page or general inquiry](https://www.omnissa.com/contact-us/)<br>**Support:** [Omnissa Support](https://www.omnissa.com/support/)<br>**Marketplace listing:** https://marketplace.microsoft.com/en-us/product/omnissallc.omnissa-solutions|
+| Contact | **Sales:** [Omnissa sales contact page or general inquiry](https://www.omnissa.com/contact-us/)<br>**Support:** [Omnissa Support](https://www.omnissa.com/support/)<br>**Marketplace listing:** https://marketplace.microsoft.com/en-us/product/omnissallc.omnissa-solutions |
 
 </details>
 
 <details>
 <summary>WorkspaceDNA</summary>
 
-| <img src="./media/partners/WDNA Stacked Gradient.png" width="120" alt="WorkspaceDNA logo" /> | [WorkspaceDNA](https://www.workspacedna.com/) provides application discovery, testing, and remediation solutions to support migrations to Windows 365. It enables organizations to assess application readiness, identify compatibility issues, and accelerate deployment timelines.|
+| <img src="./media/partners/WDNA Stacked Gradient.png" width="120" alt="WorkspaceDNA logo" /> | [WorkspaceDNA](https://www.workspacedna.com/) provides application discovery, testing, and remediation solutions to support migrations to Windows 365. It enables organizations to assess application readiness, identify compatibility issues, and accelerate deployment timelines. |
 |---|---|
-| Solutions or products | WorkspaceDNA automates the complete application lifecycle from migration to continuous operations — giving enterprises the data intelligence to validate, patch, and deploy Windows applications at scale without the manual overhead that stalls Windows 365 and Intune rollouts.|
+| Solutions or products | WorkspaceDNA automates the complete application lifecycle from migration to continuous operations — giving enterprises the data intelligence to validate, patch, and deploy Windows applications at scale without the manual overhead that stalls Windows 365 and Intune rollouts. |
 | Best for | - Organizations migrating complex application portfolios to Windows 365.<br>- IT teams focused on reducing application compatibility risks during deployment. |
 | Windows 365 integration | WorkspaceDNA supports Windows 365 migrations by providing application assessment, automated testing, and remediation insights. It helps organizations ensure application compatibility and accelerate readiness for Cloud PC deployment. |
 | Who it's for | Application owners, EUC teams, IT administrators, and organizations managing large or complex application estates. |
@@ -157,9 +158,11 @@ What this page does not include: This page does not include system integrators, 
 </details>
 
 ## Additional Microsoft resources
+
 - [Microsoft App Assure](https://aka.ms/AppAssure) – Assistance for eligible customers experiencing application compatibility issues when adopting Windows 365 and other Microsoft technologies.
 
-## Interested in being added to this list?  
+## Interested in being added to this list?
+
 Reach out to us at WindowsCloudHello@Microsoft.com if you’d like to be considered for inclusion.
 
 ## Next steps
